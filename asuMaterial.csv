@@ -1,0 +1,1200 @@
+ticketPersonal,casoHansa,fechaInicial,horaInicial,fechaFin,horaFin,tiempo,sla,descripcion,causa,tipoFalla,cuadrilla,ciudad,coordenada,reclamo,causa,producto,solucion,tipo,longitudUtilizada,longitudTotal,longTotalUno,longTotalDos,longTotalTres,fase,Materiales,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+id,id,id,id,id,id,id,id,id,id,id,id,id,id,id,id,id,id,id,id,id,,,,id,id,cinta,hebilla,termo,retencion,cajaEmpalme,cajaFDT,cajaNap,baseOjal,preformado,camisa,fo24,fo48,fo144,trebol,dielectrico,splitter,hb144,cableDrop,pijtail,baseBulon,cruceta,sfc350,sfc250,sfc150,sfc100,sfc80,sfc60,sfc20,sfc5
+descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,descripcion,,,,descripcion,descripcion,Banda de acero,Hebilla para Cinta de Acero 3/4,Termo contraíble para Fusión de FO,Conjunto Herraje retención single p/cable,Caja de empalme,Caja FDT,Caja Nap,Soporte c/ ojal,Conjunto de anclaje (Preformado y camisa),,Fibra Óptica ADSS 24 pelos (Mts),Fibra Óptica ADSS 48 pelos (Mts),Fibra Óptica ADSS 144 pelos (Mts),Herraje Trébol,Soporte dieléctrico PLP,Splitter,Caja HUB BOX 144,Cable Drop,Pijtail,Soporte Base Bulon,Cruceta,CABLE SFC 350 Mts,CABLE SFC 250 Mts,CABLE SFC 150 Mts,CABLE SFC 100 Mts,CABLE SFC 80 Mts,CABLE SFC 60 Mts,CABLE SFC 20 Mts,CABLE SFC 5 Mts
+medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,medida,,,,medida,medida,Mts,Uni,Uni,Uni,Uni,Uni,Uni,Uni,Uni,Uni,Mts,Mts,Mts,Uni,Uni,Uni,Uni,Mts,Uni,Uni,Uni,Mts,Mts,Mts,Mts,Mts,Mts,Mts,Mts
+stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,stock,,,,stock,stock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63403,2454,05/07/2021,06:46,05/07/2021,11:31,04:45,S/C,"RECLAMO: Adecuación
+CAUSA: Sin Inconvenientes
+PRODUCTO: Caja Nap
+SOLUCION: Cajas Nap ya estaban adecuadas",Sin Inconvenientes,14,ASU02,ASU,"-25.304694,
+-57.510210",Adecuación,Sin Inconvenientes,Caja Nap,Cajas Nap ya estaban adecuadas,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30795,2446,03/07/2021,10:49,04/07/2021,11:15,00:26,S/C,"RECLAMO: Adecuación
+CAUSA: Sin Inconvenientes
+PRODUCTO: Caja Nap
+SOLUCION: caja Nap adecuada por otra contratista",Sin Inconvenientes,14,ASU02,ASU,"-25.377719,
+-57.534820",Adecuación,Sin Inconvenientes,Caja Nap,caja Nap adecuada por otra contratista,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64915 ,2509,08/07/2021,13:25,09/07/2021,14:35,01:10,S/C,"RECLAMO: Adecuación
+CAUSA: Sin Inconvenientes
+PRODUCTO: Sin Inconvenientes
+SOLUCION: se verifico ningún poste que necesite adecuación",Sin Inconvenientes,14,ASU01,ASU,"-25.371876,
+-57.485753",Adecuación,Sin Inconvenientes,Sin Inconvenientes,se verifico ningún poste que necesite adecuación,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65927,2526,10/07/2021,11:50,11/07/2021,12:50,01:00,S/C,"RECLAMO: Corte de FO
+CAUSA: Sin Inconvenientes
+PRODUCTO: Sin Inconvenientes
+SOLUCION: sin inconvenientes, todos los clientes están desconectados por eso lo ven abajo",Sin Inconvenientes,14,ASU04,ASU,"-25.284496,
+-57.499429",Corte de FO,Sin Inconvenientes,Sin Inconvenientes,"sin inconvenientes, todos los clientes están desconectados por eso lo ven abajo",,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67262,2568,14/07/2021,07:31,15/07/2021,14:45,07:14,N/C,"RECLAMO: Sin Potencia
+CAUSA: Sin Inconvenientes
+PRODUCTO: Caja Nap
+SOLUCION: Limpieza de puertos",Sin Inconvenientes,14,ASU04,ASU,"-25.307210,
+-57.486840",Sin Potencia,Sin Inconvenientes,Caja Nap,Limpieza de puertos,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67138,2602,17/07/2021,12:41,17/07/2021,13:10,00:29,S/C,"RECLAMO: Adecuación
+CAUSA: Sin Inconvenientes
+PRODUCTO: Caja Nap
+SOLUCION: La caja Nap ya se encontraba adecuada",Sin Inconvenientes,14,ASU04,ASU,"-25.312339,
+-57.504745",Adecuación,Sin Inconvenientes,Caja Nap,La caja Nap ya se encontraba adecuada,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67887 ,2614,18/07/2021,15:01,18/07/2021,18:47,03:46,S/C,"RECLAMO: Adecuación
+CAUSA: Sin Inconvenientes
+PRODUCTO: Caja Nap
+SOLUCION:  Al llegar al sitio ya encontramos la caja Nap adecuada en la columna",Sin Inconvenientes,14,ASU02,ASU,"-25.363043,
+-57.588364",Adecuación,Sin Inconvenientes,Caja Nap, Al llegar al sitio ya encontramos la caja Nap adecuada en la columna,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68834,2633,19/07/2021,07:24,20/07/2021,09:47,02:23,S/C,"RECLAMO: Corte de FO
+CAUSA: Sin Inconvenientes
+PRODUCTO: Caja Nap
+SOLUCION: La caja Nap ya se encontraba adecuada",Sin Inconvenientes,14,ASU02,ASU,"-25.397035,
+-57.552568",Corte de FO,Sin Inconvenientes,Caja Nap,La caja Nap ya se encontraba adecuada,,,,,,,FASE 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67729,2638,15/07/2021,10:12,20/07/2021,11:56,01:44,S/C,"RECLAMO: Adecuación
+CAUSA: Sin Inconvenientes
+PRODUCTO: Caja Na
+SOLUCION: La caja Nap ya se encontraba adecuada",Sin Inconvenientes,14,ASU02,ASU,"-25.315283,
+-57.518104",Adecuación,Sin Inconvenientes,Caja Na,La caja Nap ya se encontraba adecuada,,,,,,,FASE 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63382,2448,04/07/2021,13:52,04/07/2021,15:52,02:00,S/C,"RECLAMO: Corte de FO
+CAUSA: Poda de Árbol
+PRODUCTO: Cable SFC
+SOLUCION: fusión a mitad de tramo",Poda de Árbol,12,ASU02,ASU,"-25.372829,
+-57.593272",Corte de FO,Poda de Árbol,Cable SFC,fusión a mitad de tramo,,,,,,,FASE 2,- 1 termo contraible,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+63756,2474,05/07/2021,16:12,06/07/2021,17:38,01:26,S/C,"RECLAMO: Corte de FO
+CAUSA: Poda de Árbol
+PRODUCTO: Cable SFC
+SOLUCION: se realizó un tendido nuevo de cable SFC 80 metros",Poda de Árbol,12,ASU02,ASU,"-25.373477,
+-57.563471",Corte de FO,Poda de Árbol,Cable SFC,se realizó un tendido nuevo de cable SFC 80 metros,cambio,80,80,80,,,FASE 2,"- 80 SFC
+- 2 retenedores",,,,2,,,,,,,,,,,,,,,,,,,,,,1,,,
+65046,2494,08/07/2021,12:39,08/07/2021,13:21,00:42,S/C,"RECLAMO: Corte de FO
+CAUSA: Daño por Terceros
+PRODUCTO: Cable SFC
+SOLUCION: Se realizó un tendido de 20 metros de SFC para reparar el daño con una fusión intermedia",Daño por Terceros,12,ASU03,ASU,"-25.366197,
+-57.434773",Corte de FO,Daño por Terceros,Cable SFC,Se realizó un tendido de 20 metros de SFC para reparar el daño con una fusión intermedia,reparacion,20,80,80,,,FASE 2,"- 20 SFC
+- 1 retenedor
+- 1 termo contraible",,,1,1,,,,,,,,,,,,,,,,,,,,,,,,1,
+66549,2550,12/07/2021,15:17,13/07/2021,16:29,01:12,S/C,"RECLAMO: Corte de FO
+CAUSA: Poda de Árbol
+PRODUCTO: Cable SFC
+SOLUCION: se realizo el tendido de cable SFC y adecuación de columnas",Poda de Árbol,12,ASU02,ASU,"-25.384076,
+-57.561823",Corte de FO,Poda de Árbol,Cable SFC,se realizo el tendido de cable SFC y adecuación de columnas,cambio,80,80,80,,,FASE 2,- 80 SFC,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+66688,2554,13/07/2021,07:22,14/07/2021,19:08,11:46,N/C,"RECLAMO: Adecuación
+CAUSA: Poda de Árbol
+PRODUCTO: Cable SFC
+SOLUCION: Adecuación de columna, tendido de cable SFC de 100 metros",Poda de Árbol,12,ASU03,ASU,"-25.368922,
+-57.535265",Adecuación,Poda de Árbol,Cable SFC,"Adecuación de columna, tendido de cable SFC de 100 metros",cambio,100,100,100,,,FASE 2,"- 12 cinta metálica
+- 8 hebilla
+- 8 trebol
+- 12 retenedores
+- 100 SFC",12,8,,12,,,,,,,,,,8,,,,,,,,,,,1,,,,
+66524,2645,12/07/2021,15:35,20/07/2021,17:18,01:43,S/C,"RECLAMO: Atenuación
+CAUSA: SFC doblado en varias partes
+PRODUCTO: Cable SFC
+SOLUCION: se realizo el cambio de cableado de SFC ",SFC doblado en varias partes,12,ASU01,ASU,"-25.333676,
+-57.478426",Atenuación,SFC doblado en varias partes,Cable SFC,se realizo el cambio de cableado de SFC ,cambio,150,150,150,,,FASE 2,- 150 SFC,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+69118,2647,20/07/2021,15:39,20/07/2021,17:32,01:53,S/C,"RECLAMO: Corte de FO
+CAUSA: Poda de Árbol
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido nuevo de cable SFC",Poda de Árbol,12,ASU02,ASU,"-25.362575,
+-57.587811",Corte de FO,Poda de Árbol,Cable SFC,Se realizo el tendido nuevo de cable SFC,cambio,80,80,80,,,FASE 2,- 80 SFC,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+65349,2511,09/07/2021,14:40,09/07/2021,15:42,01:02,S/C,"RECLAMO: Corte de FO
+CAUSA: Quemazón en Poste
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo un nuevo tendido de cable SFC",Quemazón en Poste,8,ASU01,ASU,"-25.367730,
+-57.500109",Corte de FO,Quemazón en Poste,Cable SFC,Se realizo un nuevo tendido de cable SFC,cambio,150,150,150,,,FASE 2,- 150 SFC,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+65993,2530,11/07/2021,15:44,12/07/2021,12:02,20:18,N/C,"RECLAMO: Corte de FO
+CAUSA: Quemazón en Poste
+PRODUCTO: Cable FO 144 hilos
+SOLUCION: se realizo el tendido de cable FO 144 hilos y fusión",Quemazón en Poste,8,ASU03,ASU,"-25.367517,
+-57.537927",Corte de FO,Quemazón en Poste,Cable FO 144 hilos,se realizo el tendido de cable FO 144 hilos y fusión,,,,,,,FASE 1,"- 4 soporte ojal
+- 4 preformado y camisa
+- 2 cruceta
+- 5 hebilla
+- 6 cinta
+- 110 termo contraible
+- 1 caja FDT 48 hilos
+- 1 Caja de empalme de 48 hilos",6,5,110,,1,1,,4,4,,,,,,,,,,,,2,,,,,,,,
+66562,2559,13/07/2021,07:22,14/07/2021,08:01,00:39,S/C,"RECLAMO: Corte de FO
+CAUSA: Quemazón de FO en Columna
+PRODUCTO: Cable FO 48 Hilos
+SOLUCION: se realizo el tendido de cable ADSS, se realizo dos cajas de empalme, se realizo nuevamente una caja de FDT",Quemazón de FO en Columna,8,"ASU01
+ASU03",ASU,"-25.350700,
+-57.539609",Corte de FO,Quemazón de FO en Columna,Cable FO 48 Hilos,"se realizo el tendido de cable ADSS, se realizo dos cajas de empalme, se realizo nuevamente una caja de FDT",,,,,,,FASE 1,"- 1 caja de empalme 48 hilos
+- 1 caja FDT 48 hilos
+- 75 FO 48 hilos
+- 12 termo contraible",,,12,,1,1,,,,,,75,,,,,,,,,,,,,,,,,
+63278,2443,03/07/2021,07:18,04/07/2021,10:37,03:19,S/C,"RECLAMO: Corte de FO
+CAUSA: Sabotaje
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo un tendido de cable SFC",Sabotaje,7,ASU03,ASU,"-25.355682,
+-57.489331",Corte de FO,Sabotaje,Cable SFC,Se realizo un tendido de cable SFC,cambio,100,100,100,,,FASE 2,- 100 SFC,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+65225,2502,08/07/2021,07:13,09/07/2021,11:24,04:11,S/C,"RECLAMO: Corte de FO
+CAUSA: Posible Sabotaje
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC y fusión",Posible Sabotaje,7,ASU01,ASU,"-25.375568,
+-57.604843",Corte de FO,Posible Sabotaje,Cable SFC,Se realizo el tendido de cable SFC y fusión,reparacion,150,350,350,,,FASE 2,"- 150 SFC
+- 4 retenedores",,,,4,,,,,,,,,,,,,,,,,,,,1,,,,,
+66116 ,2534,12/07/2021,08:40,12/07/2021,14:59,06:19,N/C,"RECLAMO: Corte de FO
+CAUSA: Sabotaje, Robo de caja de empalme
+PRODUCTO: Cable FO 48 Hilos
+SOLUCION: Se realizo la instalación de una nueva caja de empalme y tendido de cable de FO 48 hilos","Sabotaje, Robo de caja de empalme",7,ASU04,ASU,"-25.364141,
+-57.498551",Corte de FO,"Sabotaje, Robo de caja de empalme",Cable FO 48 Hilos,Se realizo la instalación de una nueva caja de empalme y tendido de cable de FO 48 hilos,,,,,,,FASE 1,"- 2 base ojal
+- 2 preformado con camisa
+- 2 hebilla
+- 1 cinta metálica
+- 250 FO 48 hilos
+- 1 caja de empalme de 48 hilos",1,2,,,1,,,2,2,,,250,,,,,,,,,,,,,,,,,
+66496,2540,12/07/2021,07:27,13/07/2021,14:58,07:31,N/C,"RECLAMO: Corte de FO
+CAUSA: Sabotaje
+PRODUCTO: Caja FDT
+SOLUCION: se realizo la fusión de 1x4 en caja FDT",Sabotaje,7,ASU04,ASU,"-25.276590,
+-57.516867",Corte de FO,Sabotaje,Caja FDT,se realizo la fusión de 1x4 en caja FDT,,,,,,,FASE 1,1 termo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67405,2578,14/07/2021,13:23,15/07/2021,15:14,01:51,S/C,"RECLAMO: Corte de FO
+CAUSA: Sabotaje
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC, adecuación en columnas",Sabotaje,7,ASU03,ASU,"-25.280211,
+-57.510986",Corte de FO,Sabotaje,Cable SFC,"Se realizo el tendido de cable SFC, adecuación en columnas",cambio,100,100,100,,,FASE 2,- 100 SFC,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+67685,2582,15/07/2021,07:28,16/07/2021,17:32,10:04,N/C,"RECLAMO: Corte de FO
+CAUSA: Cable SFC dañado posible sabotaje
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC, adecuación en columnas",Cable SFC dañado posible sabotaje,7,ASU04,ASU,"-25.350697,
+-57.458834",Corte de FO,Cable SFC dañado posible sabotaje,Cable SFC,"Se realizo el tendido de cable SFC, adecuación en columnas",cambio,"350
+250","350
+250",350,250,,FASE 2,"- 8 trebol
+- 12 hebillas
+- 15 cinta metálica
+- 2 base ojal
+- 1 dielectrico
+- 6 retenedores
+- 350 SFC
+- 250 SFC",15,12,,6,,,,2,,,,,,8,1,,,,,,,1,1,,,,,,
+67906,2594,16/07/2021,07:20,17/07/2021,10:27,03:07,S/C,"RECLAMO: Corte de FO
+CAUSA: Cable SFC dañado posible sabotaje
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC y adecuación en columnas",Cable SFC dañado posible sabotaje,7,ASU01,ASU,"-25.356863,
+-57.450260 ",Corte de FO,Cable SFC dañado posible sabotaje,Cable SFC,Se realizo el tendido de cable SFC y adecuación en columnas,cambio,100,100,100,,,FASE 2,"- 1 cinta metálica
+- 1 hebilla
+- 2 trebol
+- 100 SFC",1,1,,,,,,,,,,,,2,,,,,,,,,,,1,,,,
+67609,2644,20/07/2021,14:32,20/07/2021,17:18,02:46,S/C,"RECLAMO: Adecuación
+CAUSA: Posible Sabotaje
+PRODUCTO: Cable FO 24 Hilos
+SOLUCION: Se realizo el tendido de ADSS ,fusión,adecuación de caja Nap",Posible Sabotaje,7,ASU04,ASU,"-25.331850,
+-57.505845",Adecuación,Posible Sabotaje,Cable FO 24 Hilos,"Se realizo el tendido de ADSS ,fusión,adecuación de caja Nap",,,,,,,FASE 1,"- 45 cable FO 24 hilos
+- 2 termo contraible
+- 2 preformado con camisa
+- 1 base ojal
+- 3 hebilla",,3,2,,,,,1,2,,45,,,,,,,,,,,,,,,,,,
+63758,2464,05/07/2021,07:10,06/07/2021,10:09,02:59,S/C,"RECLAMO: Corte de FO
+CAUSA: Desconectado en la Hub Box 
+PRODUCTO: Caja HUB BOX
+SOLUCION: se realizo la limpieza de puertos",Desconectado en la Hub Box ,6,ASU04,ASU,"-25.304261,
+-57.509644",Corte de FO,Desconectado en la Hub Box ,Caja HUB BOX,se realizo la limpieza de puertos,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63621,2466,05/07/2021,10:37,06/07/2021,11:45,01:08,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Daño por Terceros
+Puerto desconectado
+PRODUCTO: Caja Nap
+SOLUCION:  se realizó limpieza de puertos ","Daño por Terceros
+Puerto desconectado",6,ASU04,ASU,"-25.272895,
+-57.498905",Alta Atenuación,"Daño por Terceros
+Puerto desconectado",Caja Nap, se realizó limpieza de puertos ,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66404,2559,12/07/2021,11:28,14/07/2021,12:42,01:14,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Suciedad en Caja Nap
+PRODUCTO: Caja Nap
+SOLUCION: se realizo la limpieza de puertos",Suciedad en Caja Nap,6,ASU04,ASU,"-25.365778,
+-57.465970",Alta Atenuación,Suciedad en Caja Nap,Caja Nap,se realizo la limpieza de puertos,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66166 ,2621,12/07/2021,11:07,19/07/2021,13:16,02:09,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Suciedad en Caja Nap
+PRODUCTO: Caja Nap
+SOLUCION: Limpieza de puertos en caja Nap",Suciedad en Caja Nap,6,ASU02,ASU,"-25.392807,
+-57.486262",Alta Atenuación,Suciedad en Caja Nap,Caja Nap,Limpieza de puertos en caja Nap,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69053 ,2640,20/07/2021,12:05,20/07/2021,14:05,02:00,S/C,"RECLAMO: Corte de FO
+CAUSA: conector flojo
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la conexión correcta de los conectores",conector flojo,6,ASU01,ASU,"-25.361525,
+-57.514349",Corte de FO,conector flojo,Caja Nap,Se realizo la conexión correcta de los conectores,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63472,2457,05/07/2021,11:59,05/07/2021,13:22,01:23,S/C,"RECLAMO: Corte de FO
+CAUSA: Punta Dañada
+PRODUCTO: Cable SFC
+SOLUCION: cambio de punta de cable SFC",Punta Dañada,5,ASU02,ASU,"-25.374618,
+-57.535721",Corte de FO,Punta Dañada,Cable SFC,cambio de punta de cable SFC,reparacion,5,100,100,,,FASE 2,"- 5 SFC
+- 1 termo contraible",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1
+62465,2411,01/07/2021,13:30,01/07/2021,17:11,03:41,S/C,"RECLAMO: Corte de FO
+CAUSA: Pelo Roto en Caja de Empalme
+PRODUCTO: Cable FO 24 Hilos
+SOLUCION: Fusión de pelo en caja de empalme",Pelo Roto en Caja de Empalme,5,ASU03,ASU,"-25.314579,
+-57.479508",Corte de FO,Pelo Roto en Caja de Empalme,Cable FO 24 Hilos,Fusión de pelo en caja de empalme,,,,,,,FASE 1,- 2 termo contraible,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+64641,2484,07/07/2021,15:51,07/07/2021,19:25,03:34,S/C,"RECLAMO: Corte de FO
+CAUSA: Conector dañado en el cable B1 
+PRODUCTO: Caja Nap
+SOLUCION: se realizó el cambio de punta del cable de la B1 y se conecto correctamente el cable de la A1.",Conector dañado en el cable B1 ,5,ASU02,ASU,"-25.373557,
+-57.530518",Corte de FO,Conector dañado en el cable B1 ,Caja Nap,se realizó el cambio de punta del cable de la B1 y se conecto correctamente el cable de la A1.,reparacion,5,100,100,,,FASE 2,- 5 SFC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+64861,2495,08/07/2021,13:02,08/07/2021,16:57,03:55,S/C,"RECLAMO: Corte de FO
+CAUSA: Conector Dañado
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC e instalación de herrajeria y una fusión en conector",Conector Dañado,5,ASU04,ASU,"-25.376473,
+-57.603133",Corte de FO,Conector Dañado,Cable SFC,Se realizo el tendido de cable SFC e instalación de herrajeria y una fusión en conector,cambio,100,100,100,,,FASE 2,"- 100 SFC
+- 1 trebol
+- 2 retenedores
+- 1 termo contraible",,,1,2,,,,,,,,,,1,,,,,,,,,,,1,,,,
+56813,2514,09/07/2021,06:37,10/07/2021,10:26,03:49,S/C,"RECLAMO: Corte de FO
+CAUSA: Conector Dañado
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo un nuevo tendido de cable SFC",Conector Dañado,5,ASU05,ASU,"-25.368253,
+-57.615671",Corte de FO,Conector Dañado,Cable SFC,Se realizo un nuevo tendido de cable SFC,cambio,80,80,80,,,FASE 2,- 80 SFC,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+66190,2538,12/07/2021,15:05,12/07/2021,18:13,03:08,S/C,"RECLAMO: Corte de FO
+CAUSA: Puertos Dañados
+PRODUCTO: Cable SFC
+SOLUCION: Tendido nuevo de cable SFC y adecuación de caja Nap",Puertos Dañados,5,ASU04,ASU,"-25.344302,
+-57.522984",Corte de FO,Puertos Dañados,Cable SFC,Tendido nuevo de cable SFC y adecuación de caja Nap,reparacion,100,250,250,,,FASE 2,"- 100 SFC
+- 3 termo contraible
+- 2 hebilla
+- 3 cinta metálica",3,2,3,,,,,,,,,,,,,,,,,,,,,,1,,,,
+66327,2556,12/07/2021,07:22,14/07/2021,11:20,03:58,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Conector Dañado
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC y adecuación de columnas",Conector Dañado,5,ASU04,ASU,"-25.351252,
+-57.489836",Alta Atenuación,Conector Dañado,Cable SFC,Se realizo el tendido de cable SFC y adecuación de columnas,cambio,"80
+80","80
+80",80,80,,FASE 2,"- 80 SFC
+- 80 SFC",,,,,,,,,,,,,,,,,,,,,,,,,,2,,,
+67174,2587,16/07/2021,12:16,16/07/2021,16:58,04:42,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Conector Dañado
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC, adecuación en columnas",Conector Dañado,5,ASU02,ASU,"-25.366864,
+-57.625486",Alta Atenuación,Conector Dañado,Cable SFC,"Se realizo el tendido de cable SFC, adecuación en columnas",cambio,100,100,100,,,FASE 2,- 100 SFC,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+68034,2599,16/07/2021,10:54,17/07/2021,12:19,01:25,S/C,"RECLAMO: Corte de FO
+CAUSA: Conector Dañado
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la fusión de conector y  adecuación de caja Nap",Conector Dañado,5,ASU04,ASU,"-25.306786,
+-57.514743",Corte de FO,Conector Dañado,Caja Nap,Se realizo la fusión de conector y  adecuación de caja Nap,,,,,,,FASE 2,"- 2 trebol
+- 3 hebilla
+- 1 retenedor
+- 1 termo contraible",,3,1,1,,,,,,,,,,2,,,,,,,,,,,,,,,
+68608,2627,19/07/2021,13:25,19/07/2021,15:31,02:06,S/C,"RECLAMO: Corte de FO
+CAUSA: Conector Dañado
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo un nuevo tendido de cableado de SFC",Conector Dañado,5,ASU02,ASU,"-25.408298,
+-57.544071",Corte de FO,Conector Dañado,Cable SFC,Se realizo un nuevo tendido de cableado de SFC,cambio,80,80,80,,,FASE 2,"- 80 SFC
+- 2 retenedores",,,,2,,,,,,,,,,,,,,,,,,,,,,1,,,
+63384,2450,04/07/2021,15:23,04/07/2021,21:35,06:12,N/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable FO 48 Hilos
+SOLUCION: se realizó un empalme a mitad de tramo, se realizó 36 fusiones",Vehículo de Gran Porte,4,ASU02,ASU,"-25.337749,
+-57.562868",Corte de FO,Vehículo de Gran Porte,Cable FO 48 Hilos,"se realizó un empalme a mitad de tramo, se realizó 36 fusiones",,,,,,,FASE 1,"- 1 juego de prefomados
+- 1 caja de empalme 48 hilos
+- 36 termo contraibles",,,36,,1,,,,1,,,,,,,,,,,,,,,,,,,,
+63338,2444,03/07/2021,07:18,04/07/2021,10:36,03:18,S/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable SFC
+SOLUCION: se retrocedió la ganancia y se realizó una fusión a mitad de tramo.",Vehículo de Gran Porte,4,ASU02,ASU,"-25.370797,
+-57.525574",Corte de FO,Vehículo de Gran Porte,Cable SFC,se retrocedió la ganancia y se realizó una fusión a mitad de tramo.,,,,,,,FASE 2,- 1 termo contraible,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+63006,2427,02/07/2021,15:15,02/07/2021,17:22,02:07,S/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable SFC
+SOLUCION:  se realizó una fusión a mitad de tramo",Vehículo de Gran Porte,4,ASU02,ASU,"-25.370797,
+-57.525574",Corte de FO,Vehículo de Gran Porte,Cable SFC, se realizó una fusión a mitad de tramo,,,,,,,FASE 2,- 1 termo contraible,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+62874,2422,02/07/2021,12:52,02/07/2021,15:18,02:26,S/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable SFC
+SOLUCION:  se realizó un tendido nuevo de cable SFC",Vehículo de Gran Porte,4,ASU02,ASU,"-57.526988,
+-25.370669",Corte de FO,Vehículo de Gran Porte,Cable SFC, se realizó un tendido nuevo de cable SFC,cambio,80,80,80,,,FASE 2,"- 80 SFC
+- 2 retenedores",,,,2,,,,,,,,,,,,,,,,,,,,,,1,,,
+62603 ,2414,01/07/2021,14:57,01/07/2021,20:09,05:12,N/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable FO 24 Hilos
+SOLUCION: se retrocedio ganancia y se realizo caja de empalme con fusiones",Vehículo de Gran Porte,4,ASU02,ASU,"-25.326697,
+-57.604619",Corte de FO,Vehículo de Gran Porte,Cable FO 24 Hilos,se retrocedio ganancia y se realizo caja de empalme con fusiones,,,,,,,FASE 1,"- 1 caja de FDT 48 hilos
+- 2 termo contraible",,,2,,,1,,,,,,,,,,,,,,,,,,,,,,,
+64659,2487,07/07/2021,10:11,08/07/2021,12:01,01:50,S/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable SFC
+SOLUCION:  Se realizó un nuevo tendió de SFC de 150 metros, se procedió al desmonte de la fibra dañada",Vehículo de Gran Porte,4,ASU03,ASU,"-25.366197,
+-57.434773",Corte de FO,Vehículo de Gran Porte,Cable SFC," Se realizó un nuevo tendió de SFC de 150 metros, se procedió al desmonte de la fibra dañada",cambio,150,150,150,,,FASE 2,"- 4 retenedores
+- 150 SFC",,,,4,,,,,,,,,,,,,,,,,,,,1,,,,,
+64647,2488,07/07/2021,07:02,08/07/2021,10:09,03:07,S/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC e instalación de herrajeria",Vehículo de Gran Porte,4,ASU03,ASU,"-25.357444,
+-57.454270",Corte de FO,Vehículo de Gran Porte,Cable SFC,Se realizo el tendido de cable SFC e instalación de herrajeria,cambio,80,80,80,,,FASE 2,"- 80 SFC
+- 2 retenedores",,,,2,,,,,,,,,,,,,,,,,,,,,,1,,,
+65725,2519,09/07/2021,10:35,10/07/2021,12:56,02:21,S/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable SFC
+Caja Nap
+SOLUCION: se realizó un tendido de cable SFC 80 metros y adecuación de caja Nap",Vehículo de Gran Porte,4,ASU02,ASU,"-25.368567,
+-57.615346",Corte de FO,Vehículo de Gran Porte,"Cable SFC
+Caja Nap",se realizó un tendido de cable SFC 80 metros y adecuación de caja Nap,cambio,80,80,80,,,FASE 2,"- 3 cinta
+- 3 hebilla
+- 1 trébol
+- 80 SFC",3,3,,,,,,,,,,,,1,,,,,,,,,,,,1,,,
+65912,2525,10/07/2021,07:30,11/07/2021,12:19,04:49,S/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable FO 48 Hilos
+SOLUCION: se retrocedio 30 metros de ganancia cable FO 48 hilos, caja aerea y fusiones",Vehículo de Gran Porte,4,ASU04,ASU,"-25.269969,
+-57.520092",Corte de FO,Vehículo de Gran Porte,Cable FO 48 Hilos,"se retrocedio 30 metros de ganancia cable FO 48 hilos, caja aerea y fusiones",,,,,,,FASE 1,"- 2 preformado
+- 2 base ojal
+- 4 termo contraible
+- 1 caja de empalme de 48 hilos",,,4,,1,,,2,2,,,,,,,,,,,,,,,,,,,,
+65978,2527,11/07/2021,12:56,11/07/2021,15:51,02:55,S/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Caja SFC
+SOLUCION: Se realizo un nuevo tendido de cable SFC y adecuación de columnas",Vehículo de Gran Porte,4,ASU04,ASU,"-25.359711,
+-57.490318",Corte de FO,Vehículo de Gran Porte,Caja SFC,Se realizo un nuevo tendido de cable SFC y adecuación de columnas,cambio,250,250,250,,,FASE 2,"- 5 trebol
+- 6 retenedores
+- 5 hebilla
+- 250 SFC",,5,,6,,,,,,,,,,5,,,,,,,,,1,,,,,,
+66542,2541,12/07/2021,07:28,13/07/2021,14:06,06:38,N/C,"RECLAMO: Corte de FO
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable FO 48 hilos
+SOLUCION: se realizo el tendido de ADSS 48 hilos, fusión de hilos",Vehículo de Gran Porte,4,ASU02,ASU,"-25.342549,
+-57.586895",Corte de FO,Vehículo de Gran Porte,Cable FO 48 hilos,"se realizo el tendido de ADSS 48 hilos, fusión de hilos",,,,,,,FASE 1,"- 1 caja FDT 48 hilos
+- 1 cruceta
+- 2 cinta metálica
+- 2 hebilla
+- 8 termo contraible
+- 2 juegos de preformado
+- 40 Cable FO 48 hilos",2,2,8,,,1,,,2,,,40,,,,,,,,,1,,,,,,,,
+65853,2548,11/07/2021,14:22,13/07/2021,15:09,00:47,S/C,"RECLAMO: Adecuación
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Caja Nap
+SOLUCION: caja adecuada corresponde al ticket 65725",Vehículo de Gran Porte,4,ASU02,ASU,"-25.368245,
+-57.615255",Adecuación,Vehículo de Gran Porte,Caja Nap,caja adecuada corresponde al ticket 65725,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66703,2555,13/07/2021,07:22,14/07/2021,11:46,04:24,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC y adecuación de columnas",Vehículo de Gran Porte,4,ASU02,ASU,"-25.376383,
+-57.591569",Alta Atenuación,Vehículo de Gran Porte,Cable SFC,Se realizo el tendido de cable SFC y adecuación de columnas,cambio,150,150,150,,,FASE 2,"- 150 SFC
+- 2 retenedores",,,,2,,,,,,,,,,,,,,,,,,,,1,,,,,
+68246,2600,17/07/2021,10:53,17/07/2021,12:27,01:34,S/C,"RECLAMO: Adecuación
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable ADSS
+SOLUCION: Se realizo la adecuación de cable ADSS",Vehículo de Gran Porte,4,ASU01,ASU,"-25.346482,
+-57.565564",Adecuación,Vehículo de Gran Porte,Cable ADSS,Se realizo la adecuación de cable ADSS,,,,,,,FASE 1,"- 1 cinta metálica
+- 1 hebilla
+- 2 base ojal
+- 1 preformado con camisa
+- 1 camisa",1,1,,,,,,2,1,1,,,,,,,,,,,,,,,,,,,
+68261,2604,17/07/2021,14:02,17/07/2021,16:37,02:35,S/C,"RECLAMO: Adecuación
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable FO 24 Hilos
+SOLUCION: se realizo el tendido de ADSS 24 hilos 45 metros",Vehículo de Gran Porte,4,ASU01,ASU,"-25.346105,
+-57.566080",Adecuación,Vehículo de Gran Porte,Cable FO 24 Hilos,se realizo el tendido de ADSS 24 hilos 45 metros,,,,,,,FASE 1,"- 45 FO 24 Hilos
+- 1 FDT 48 hilos
+- 4 termo contraible
+- 1 preformado con camisa
+- 2 camisas",,,4,,,1,,,1,2,45,,,,,,,,,,,,,,,,,,
+68310,2610,17/07/2021,11:56,18/07/2021,14:53,02:57,S/C,"RECLAMO: Sin Potencia
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable SFC
+SOLUCION:  Se realizó un tendido nuevo de 150 metros de cable SFC",Vehículo de Gran Porte,4,ASU02,ASU,"-25.370418,
+-57.508926",Sin Potencia,Vehículo de Gran Porte,Cable SFC, Se realizó un tendido nuevo de 150 metros de cable SFC,cambio,150,150,150,,,FASE 2,- 150 SFC,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+68651,2634,19/07/2021,07:34,20/07/2021,11:48,04:14,S/C,"RECLAMO: Sin potencia
+CAUSA: Vehículo de Gran Porte
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC y adecuaciones",Vehículo de Gran Porte,4,ASU01,ASU,"-25.384600,
+-57.584146",Sin potencia,Vehículo de Gran Porte,Cable SFC,Se realizo el tendido de cable SFC y adecuaciones,cambio,80,80,80,,,FASE 2,"- 2 termo contraible
+- 80 SFC",,,2,,,,,,,,,,,,,,,,,,,,,,,1,,,
+069108 ,2642,20/07/2021,13:16,20/07/2021,15:37,02:21,S/C,"RECLAMO: Corte de FO
+CAUSA: ADSS suelto pot camion de gran porte
+PRODUCTO: Cable FO ADSS
+SOLUCION: se utilizo reserva y fusiones en la FO",ADSS suelto pot camion de gran porte,4,ASU02,ASU,"-25.331486,
+-57.511501",Corte de FO,ADSS suelto pot camion de gran porte,Cable FO ADSS,se utilizo reserva y fusiones en la FO,,,,,,,FASE 1,- 2 termo contraible,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+63449,2456,05/07/2021,11:59,05/07/2021,14:33,02:34,S/C,"RECLAMO: Atenuación
+CAUSA: FO Doblada
+PRODUCTO: Cable FO ADSS
+SOLUCION: se ordeno los pelos y el tubo de la FO",FO Doblada,2,ASU03,ASU,"-25.315050,
+-57.613390",Atenuación,FO Doblada,Cable FO ADSS,se ordeno los pelos y el tubo de la FO,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62772 ,2428,02/07/2021,15:14,02/07/2021,17:19,02:05,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Empalme Atenuado
+PRODUCTO: Caja FDT
+SOLUCION: Fusión de pelo en caja FDT",Empalme Atenuado,2,ASU03,ASU,"-25.276590,
+-57.516867",Alta Atenuación,Empalme Atenuado,Caja FDT,Fusión de pelo en caja FDT,,,,,,,FASE 1,- 1 termo contraible,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+62548,2423,01/07/2021,13:31,02/07/2021,15:03,01:32,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Tubo Doblado
+PRODUCTO: Caja Nap
+SOLUCION: Se corrigio el tubete doblado en caja Nap",Tubo Doblado,2,ASU03,ASU,"-25.338629,
+-57.623023",Alta Atenuación,Tubo Doblado,Caja Nap,Se corrigio el tubete doblado en caja Nap,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62488,2418,01/07/2021,07:35,02/07/2021,12:29,04:54,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Atenuación en Herrajes
+PRODUCTO: Cable SFC
+SOLUCION: Tendido nuevo de cable SFC",Atenuación en Herrajes,2,ASU04,ASU,"-25.305460,
+-57.509649",Alta Atenuación,Atenuación en Herrajes,Cable SFC,Tendido nuevo de cable SFC,cambio,150,150,150,,,FASE 2,"- 150 SFC
+- 2 cinta
+- 1 trebol
+- 1 hebilla",2,1,,,,,,,,,,,,1,,,,,,,,,,1,,,,,
+62477,2407,01/07/2021,12:10,01/07/2021,14:48,02:38,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Atenuación en Caja Nap
+PRODUCTO: Caja Nap
+SOLUCION: Limpieza de puertos",Atenuación en Caja Nap,2,ASU02,ASU,"-25.315250,
+-57.613370",Alta Atenuación,Atenuación en Caja Nap,Caja Nap,Limpieza de puertos,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65607,2515,09/07/2021,06:37,10/07/2021,10:24,03:47,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Empalme Deteriorado
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo una fusión en empalme anterior",Empalme Deteriorado,2,ASU03,ASU,"-25.376383,
+-57.591569",Alta Atenuación,Empalme Deteriorado,Cable SFC,Se realizo una fusión en empalme anterior,,,,,,,FASE 2,- 1 termo contraible,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+65672,2518,09/07/2021,10:32,10/07/2021,12:15,01:43,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Corte de SFC en pinza de retencion
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo un nuevo tendido de cable SFC y una fusión",Corte de SFC en pinza de retencion,2,ASU03,ASU,"-25.360838,
+-57.585012",Alta Atenuación,Corte de SFC en pinza de retencion,Cable SFC,Se realizo un nuevo tendido de cable SFC y una fusión,,,,,,,FASE 2,- 1 termo contraible,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+65863,2524,10/07/2021,07:00,12/07/2021,16:44,09:44,N/C,"RECLAMO: Corte de FO
+CAUSA: Atenuación por mal estado de la caja de empalme
+PRODUCTO: Cable FO 144 hilos
+SOLUCION: se realizo nueva caja de empalme y fusión de FO 144 hilos",Atenuación por mal estado de la caja de empalme,2,ASU01,ASU,"-25.314465,
+-57.622242",Corte de FO,Atenuación por mal estado de la caja de empalme,Cable FO 144 hilos,se realizo nueva caja de empalme y fusión de FO 144 hilos,,,,,,,FASE 1,"- 144 termo contraible
+- 1 caja de empalme de 48 hilos",,,144,,1,,,,,,,,,,,,,,,,,,,,,,,,
+67841,2595,16/07/2021,07:20,17/07/2021,10:21,03:01,S/C,"RECLAMO: Corte de FO
+CAUSA: Atenuado en Empalme
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo la fusion de cable SFC",Atenuado en Empalme,2,ASU04,ASU,"-25.307422,
+-57.508951",Corte de FO,Atenuado en Empalme,Cable SFC,Se realizo la fusion de cable SFC,,,,,,,FASE 2,- 1 termo contraible,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+63506 ,2462,05/07/2021,14:22,05/07/2021,16:02,01:40,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de ADSS una columna y caja Nap",Cambio de Columna,1,ASU04,ASU,"-25.272122,
+-57.492399",Adecuación,Cambio de Columna,Caja Nap,Adecuación de ADSS una columna y caja Nap,,,,,,,FASE 2,"- 1 dielectrico
+- 1 base ojal
+- 1 preformado
+- 5 cinta
+- 4 hebillas",5,4,,,,,,1,1,,,,,,1,,,,,,,,,,,,,,
+63531,2461,05/07/2021,13:29,05/07/2021,18:04,04:35,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se adecuó la caja Nap, la FDT y el cable FO con cruce de ruta por la columna nueva",Cambio de Columna,1,ASU02,ASU,"-25.286747,
+-57.656602",Adecuación,Cambio de Columna,Caja Nap,"se adecuó la caja Nap, la FDT y el cable FO con cruce de ruta por la columna nueva",,,,,,,FASE 2,"- 6 cinta
+- 4 hebillas
+- 3 base de ojal
+- 2 juegos de preformados",6,4,,,,,,3,2,,,,,,,,,,,,,,,,,,,,
+63377,2453,05/07/2021,06:45,05/07/2021,11:47,05:02,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Adecuación de cable SFC",Cambio de Columna,1,ASU03,ASU,"-25.272249,
+-57.513472",Adecuación,Cambio de Columna,Cable SFC,Adecuación de cable SFC,,,,,,,FASE 2,"- 6 cinta
+- 1 soporte ojal
+- 1 cruceta",6,,,,,,,1,,,,,,,,,,,,,1,,,,,,,,
+62760,2452,01/07/2021,06:45,05/07/2021,14:09,07:24,N/C,"RECLAMO: Alta Atenuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Adecuación de 5 columnas en la zona y tendido nuevo de cable SFC",Cambio de Columna,1,ASU04,ASU,"-25.252106,
+-57.504156",Alta Atenuación,Cambio de Columna,Cable SFC,Adecuación de 5 columnas en la zona y tendido nuevo de cable SFC,cambio,"80
+150
+350","80
+150
+350",80,150,350,FASE 2,"-  80 SFC
+- 150 SFC
+- 350 SFC
+- 5 trebol
+- 10 cinta
+- 7 hebillas",10,7,,,,,,,,,,,,5,,,,,,,,1,,1,,1,,,
+63296,2449,04/07/2021,14:40,04/07/2021,17:30,02:50,S/C,"RECLAMO: Adecuación y Atenuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable FO 24 Hilos
+SOLUCION: Adecuación de cable FO 24 hilos",Cambio de Columna,1,ASU03,ASU,"-25.237707,
+-57.549543",Adecuación y Atenuación,Cambio de Columna,Cable FO 24 Hilos,Adecuación de cable FO 24 hilos,,,,,,,FASE 2,"- 6 cinta
+- 3 hebilla
+- 3 soporte ojal
+- 1 dielectrico",6,3,,,,,,3,,,,,,,1,,,,,,,,,,,,,,
+63119,2447,04/07/2021,11:21,04/07/2021,12:44,01:23,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.371987,
+-57.544879",Adecuación,Cambio de Columna,Caja Nap,Adecuación de caja Nap,,,,,,,FASE 2,"- 3 cinta
+- 3 hebilla
+- 2 trebol",3,3,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+62617,2445,03/07/2021,10:49,04/07/2021,14:40,03:51,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: adecuacion de caja Nap y tendido nuevo de cable SFC",Cambio de Columna,1,ASU03,ASU,"-25.353407,
+-57.586495",Adecuación,Cambio de Columna,Caja Nap,adecuacion de caja Nap y tendido nuevo de cable SFC,cambio,80,80,80,,,FASE 2,"- 10 cinta
+- 6 hebilla
+- 6 retenedores
+- 3 soporte ojal
+- 80 SFC",10,6,,6,,,,3,,,,,,,,,,,,,,,,,,1,,,
+63319,2442,03/07/2021,14:38,03/07/2021,19:18,04:40,S/C,"RECLAMO: NAP Dañada
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: sangrado en cable FO, cambio de caja Nap y fusión",Cambio de Columna,1,ASU04,ASU,"-25.348165,
+-57.621652",NAP Dañada,Cambio de Columna,Caja Nap,"sangrado en cable FO, cambio de caja Nap y fusión",,,,,,,FASE 1,"- 2 base ojal
+- 2 preformado
+- 3 hebillas
+- 1 cruceta
+- 1 caja Nap",,3,,,,,1,2,2,,,,,,,,,,,,1,,,,,,,,
+63247,2436,03/07/2021,13:04,03/07/2021,14:21,01:17,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Adecuación de cable SFC",Cambio de Columna,1,ASU04,ASU,"-25.368506,
+-57.526544",Adecuación,Cambio de Columna,Cable SFC,Adecuación de cable SFC,,,,,,,FASE 2,"- 3 hebilla
+- 2 trebol
+- 3 cinta",3,3,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+62931,2431,02/07/2021,07:47,03/07/2021,01:15,17:28,N/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se adecuaron la cajas B1 y B2 se realizo un tendido de 150 de SFC",Cambio de Columna,1,ASU05,ASU,"-25.357984,
+-57.548311",Corte de FO,Cambio de Columna,Caja Nap,se adecuaron la cajas B1 y B2 se realizo un tendido de 150 de SFC,cambio,150,150,150,,,FASE 2,"- 150 SFC
+- 8 cinta
+- 6 hebillas 
+- 6 trebol
+- 6 retenedores",8,6,,6,,,,,,,,,,6,,,,,,,,,,1,,,,,
+63210,2430,02/07/2021,07:45,03/07/2021,13:23,05:38,N/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de caja Nap y una fusión",Cambio de Columna,1,ASU04,ASU,"-25.370539,
+-57.527486",Corte de FO,Cambio de Columna,Caja Nap,Adecuación de caja Nap y una fusión,,,,,,,FASE 2,"- 1 termo contraible
+- 1 trebol
+- 2 retenedores
+- 2 hebillas
+- 3 cinta",3,2,1,2,,,,,,,,,,1,,,,,,,,,,,,,,,
+62924,2421,02/07/2021,12:46,02/07/2021,16:04,03:18,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja NAP
+Cable FO ADSS
+SOLUCION: se realizó adecuación de caja NAP y de cable FO ADSS",Cambio de Columna,1,ASU04,ASU,"-25.266790,
+-57.496410",Adecuación,Cambio de Columna,"Caja NAP
+Cable FO ADSS",se realizó adecuación de caja NAP y de cable FO ADSS,,,,,,,FASE 2,"- 1 base ojal
+- 1 preformado con camisa
+- 1 dieléctrico",,,,,,,,1,1,,,,,,1,,,,,,,,,,,,,,
+62491,2417,01/07/2021,07:31,02/07/2021,12:39,05:08,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de Caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.370360,
+-57.524966",Adecuación,Cambio de Columna,Caja Nap,Adecuación de Caja Nap,,,,,,,FASE 2,"- 3 cinta
+- 3 hebillas
+- 2 herrajes trebol",3,3,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+62694,2416,01/07/2021,07:28,02/07/2021,13:18,05:50,N/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de Caja Nap y se utilizo la ganancia en cruceta para la fusión en cable SFC de 100 metros",Cambio de Columna,1,ASU03,ASU,"-25.311110,
+-57.507893",Corte de FO,Cambio de Columna,Caja Nap,Adecuación de Caja Nap y se utilizo la ganancia en cruceta para la fusión en cable SFC de 100 metros,,,,,,,FASE 2,"- 10 cinta
+- 6 hebilla
+- 6 trebol
+- 6 retenedores
+- 1 termo contraible",10,6,1,6,,,,,,,,,,6,,,,,,,,,,,,,,,
+56130,2406,10/06/2021,09:03,01/07/2021,17:27,08:24,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de Caja Nap y cable ADSS",Cambio de Columna,1,ASU04,ASU,"-25.336686,
+-57.561113",Adecuación,Cambio de Columna,Caja Nap,Adecuación de Caja Nap y cable ADSS,,,,,,,FASE 2,"- 4 cinta
+- 2 base ojal
+- 2 preformado con camisa
+- 1 dielectrico
+- 4 hebilla",4,4,,,,,,2,2,,,,,,1,,,,,,,,,,,,,,
+51490,2405,26/05/2021,09:01,01/07/2021,11:57,02:56,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de Caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.346482,
+-57.565564",Adecuación,Cambio de Columna,Caja Nap,Adecuación de Caja Nap,,,,,,,FASE 2,"- 2 cinta
+- 2 hebillas",2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47010,2404,10/05/2021,09:00,01/07/2021,13:26,04:26,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+Caja FDT
+Cable FO 24 hilos
+SOLUCION: Adecuación de caja Nap, caja FDT y cable FO 24 hilos",Cambio de Columna,1,ASU03,ASU,"-25.327213,
+-57.559489",Adecuación,Cambio de Columna,"Caja Nap
+Caja FDT
+Cable FO 24 hilos","Adecuación de caja Nap, caja FDT y cable FO 24 hilos",,,,,,,FASE 2,"- 10 cinta
+- 7 hebilla
+- 3 soporte ojal
+- 1 dielectrico",10,7,,,,,,3,,,,,,,1,,,,,,,,,,,,,,
+62233,2413,30/06/2021,08:00,01/07/2021,14:17,06:17,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable FO 24 Hilos
+SOLUCION: Adecuación de caja Nap y cable ADSS",Cambio de Columna,1,ASU04,ASU,-82.829082,Adecuación,Cambio de Columna,Cable FO 24 Hilos,Adecuación de caja Nap y cable ADSS,,,,,,,FASE 1,"- 4 base ojal
+- 1 dielectrico
+- 4 preformado con camisa",,,,,,,,4,4,,,,,,1,,,,,,,,,,,,,,
+63633,2463,05/07/2021,07:09,06/07/2021,17:09,10:00,S/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+Cable SFC
+SOLUCION: Se adecuaron  la caja Nap del A1 al A4 y del B1 al B3,  la  caja HB, se realizó  fucion y dos tendido de SFC de 80 metros",Cambio de Columna,1,ASU03,ASU,"-25.252006,
+-57.502850",Corte de FO,Cambio de Columna,"Caja Nap
+Cable SFC","Se adecuaron  la caja Nap del A1 al A4 y del B1 al B3,  la  caja HB, se realizó  fucion y dos tendido de SFC de 80 metros",cambio,"80
+80","80
+80",80,80,,FASE 2,"- 30 hebillas
+- 20 trebol
+- 6 dieléctricos
+- 5 retenedores
+- 40 cinta
+- 2 soporte ojal
+- 2 preformado con camisa
+- 1 cruzeta
+- 80 SFC
+- 80 SFC",40,30,,5,,,,2,2,,,,,20,6,,,,,,1,,,,,2,,,
+63405,2465,05/07/2021,07:10,06/07/2021,16:03,08:53,N/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+Vehículo de Gran Porte
+PRODUCTO: Caja HUB BOX
+Cable SFC
+SOLUCION: se realizó un cambio completo de los cables de la hub box, B1, B2, y B3 también se realizó adecuación de la Hub Box, caja Nap y cable SFC, se realizo la adecuación de 10 columnas","Cambio de Columna
+Vehículo de Gran Porte",1,ASU02,ASU,"-25.370797,
+-57.525574",Corte de FO,"Cambio de Columna
+Vehículo de Gran Porte","Caja HUB BOX
+Cable SFC","se realizó un cambio completo de los cables de la hub box, B1, B2, y B3 también se realizó adecuación de la Hub Box, caja Nap y cable SFC, se realizo la adecuación de 10 columnas",cambio,80,80,80,,,FASE 2,"- 80 SFC
+- 250 SFC
+- 250 SFC
+- 15 cinta
+- 20 hebillas
+- 10 trébol",15,20,,,,,,,,,,,,10,,,,,,,,,,,,1,,,
+63748,2472,05/07/2021,14:46,06/07/2021,15:50,01:04,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se realizo limpieza de puertos, la caja ya estaba adecuada",Cambio de Columna,1,ASU01,ASU,"-25.369755,
+-57.527354",Adecuación,Cambio de Columna,Caja Nap,"se realizo limpieza de puertos, la caja ya estaba adecuada",,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64047,2469,06/07/2021,11:55,06/07/2021,13:47,01:52,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+Cable FO ADSS
+SOLUCION: adecuacion de caja Nap y cable de FO ADSS",Cambio de Columna,1,ASU04,ASU,"-25.281732,
+-57.480626",Adecuación,Cambio de Columna,"Caja Nap
+Cable FO ADSS",adecuacion de caja Nap y cable de FO ADSS,,,,,,,FASE 1,"- 1 dielectrico
+- 2 base ojal
+- 2 preformado
+- 4 hebilla
+- 5 cinta",5,4,,,,,,2,2,,,,,,1,,,,,,,,,,,,,,
+63874 ,2471,06/07/2021,13:54,06/07/2021,17:22,03:28,S/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC e instalación de herrajeria",Cambio de Columna,1,ASU04,ASU,"-25.290171,
+-57.311145",Corte de FO,Cambio de Columna,Cable SFC,Se realizo el tendido de cable SFC e instalación de herrajeria,cambio,250,250,250,,,FASE 2,"- 250 SFC
+- 5 trebol
+- 12 cinta
+- 5 hebillas",12,5,,,,,,,,,,,,5,,,,,,,,,1,,,,,,
+64218,2476,06/07/2021,06:57,07/07/2021,10:50,03:53,S/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Fusión a mitad de tramo",Cambio de Columna,1,ASU02,ASU,"-25.379773,
+-57.614239",Corte de FO,Cambio de Columna,Cable SFC,Fusión a mitad de tramo,reparacion,60,150,150,,,FASE 2,"- 60 SFC
+- 4 retenedores
+- 1 termo contraible",,,1,4,,,,,,,,,,,,,,,,,,,,,,,1,,
+64274,2477,06/07/2021,06:57,07/07/2021,11:38,04:41,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación en caja Nap",Cambio de Columna,1,ASU03,ASU,"-25.312441,
+-57.639295",Adecuación,Cambio de Columna,Caja Nap,Adecuación en caja Nap,,,,,,,FASE 2,"- 8 cinta
+- 5 hebillas
+- 2 soporte ojal
+- 2 dielectrico",8,5,,,,,,2,,,,,,,2,,,,,,,,,,,,,,
+64182,2478,06/07/2021,06:58,07/07/2021,12:25,05:27,N/C,"RECLAMO: Sin Potencia
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: se realizo un tendido de cable SFC y adecuación de caja Nap",Cambio de Columna,1,ASU04,ASU,"-25.303529,
+-57.506227",Sin Potencia,Cambio de Columna,Cable SFC,se realizo un tendido de cable SFC y adecuación de caja Nap,reparacion,"80
+80",150,150,,,FASE 2,"- 80 SFC
+- 80 SFC
+- 4 hebillas
+- 5 cinta
+- 2 retenedores",5,4,,2,,,,,,,,,,,,,,,,,,,,,,2,,,
+64061 ,2480,07/07/2021,11:50,07/07/2021,16:36,04:46,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable FO 24 Hilos
+SOLUCION: Adecuación de caja Nap, caja FDT y cable FO de 24 hilos",Cambio de Columna,1,ASU03,ASU,"-25.339500,
+-57.494611",Adecuación,Cambio de Columna,Cable FO 24 Hilos,"Adecuación de caja Nap, caja FDT y cable FO de 24 hilos",,,,,,,FASE 1,"- 5 preformado
+- 5 soporte ojal
+- 6 hebillas
+- 8 cinta",8,6,,,,,,5,5,,,,,,,,,,,,,,,,,,,,
+64079,2481,07/07/2021,11:50,07/07/2021,17:24,05:34,N/C,"RECLAMO: Adecuación
+CAUSA: Retiro de Columna
+PRODUCTO: Ninguno
+SOLUCION: Observación no se puede realizar el trabajo de Adecuación por qué aún no cuenta con la columna nueva",Retiro de Columna,1,ASU03,ASU,"-25.339278,
+-57.493028",Adecuación,Retiro de Columna,Ninguno,Observación no se puede realizar el trabajo de Adecuación por qué aún no cuenta con la columna nueva,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64175 ,2483,07/07/2021,13:14,07/07/2021,15:29,02:15,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se adecuó la caja Nap y el cable ADSS",Cambio de Columna,1,ASU02,ASU,"-25.257468,
+-57.586551",Adecuación,Cambio de Columna,Caja Nap,se adecuó la caja Nap y el cable ADSS,,,,,,,FASE 2,"- 3 cinta
+- 3 hebilla
+- 1 retenedor
+- 1 preformado con camisa",3,3,,1,,,,,1,,,,,,,,,,,,,,,,,,,,
+64308 ,2479,07/07/2021,11:03,07/07/2021,13:05,02:02,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.290686,
+-57.659718",Adecuación,Cambio de Columna,Caja Nap,Adecuación de caja Nap,,,,,,,FASE 2,"- 3 cinta
+- 2 hebilla",3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64478,2482,07/07/2021,12:31,07/07/2021,19:39,07:08,N/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable FO 48 Hilos
+SOLUCION: se realizo tendido  nuevo de cable SFC y una fusión",Cambio de Columna,1,ASU04,ASU,"-25.243037,
+-57.497545",Corte de FO,Cambio de Columna,Cable FO 48 Hilos,se realizo tendido  nuevo de cable SFC y una fusión,cambio,100,100,100,,,FASE 1,"- 4 termo contraible
+- 100 SFC
+- 5 SFC
+- 4 hebillas
+- 4 soporte ojal
+- 4 preformado con camisa
+- 1 caja de empalme 48 hilos",,4,4,,1,,,4,4,,,,,,,,,,,,,,,,1,,,,
+64571,2489,07/07/2021,07:02,08/07/2021,12:52,05:50,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de caja Nap y cable FO ADSS",Cambio de Columna,1,ASU04,ASU,"-25.256044,
+-57.585675",Adecuación,Cambio de Columna,Caja Nap,Adecuación de caja Nap y cable FO ADSS,,,,,,,FASE 1,"- 1 base ojal
+- 1 preformado con camisa
+- 3 hebilla",,3,,,,,,1,1,,,,,,,,,,,,,,,,,,,,
+63920,2473,06/07/2021,07:02,08/07/2021,10:03,03:01,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: adecuación en 20 postes , 4 cajas Nap, cable FO ADSS",Cambio de Columna,1,ASU01,ASU,"-25.342849,
+-57.542875",Adecuación,Cambio de Columna,Caja Nap,"adecuación en 20 postes , 4 cajas Nap, cable FO ADSS",,,,,,,FASE 1,"- 29 cinta
+- 29 hebilla",29,29,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64100,2490,06/07/2021,10:14,08/07/2021,12:06,01:52,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+Cable FO ADSS
+SOLUCION: Adecuación de cable ADSS y caja Nap",Cambio de Columna,1,ASU01,ASU,"-25.336201,
+-57.497208",Adecuación,Cambio de Columna,"Caja Nap
+Cable FO ADSS",Adecuación de cable ADSS y caja Nap,,,,,,,FASE 2,"- 2 base ojal
+- 4 cintas
+- 4 hebilla",4,4,,,,,,2,,,,,,,,,,,,,,,,,,,,,
+64670,2492,07/07/2021,12:04,08/07/2021,15:32,03:28,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable FO 144 hilos
+SOLUCION: Se realizó trabajo de Adecuación de caja Nap en la nueva columna y un tramo de FO de 144 hilos",Cambio de Columna,1,ASU03,ASU,"-25.349193,
+-57.455132",Adecuación,Cambio de Columna,Cable FO 144 hilos,Se realizó trabajo de Adecuación de caja Nap en la nueva columna y un tramo de FO de 144 hilos,,,,,,,FASE 1,"- 2 trébol
+- 1 diectrico
+- 3 hebilla
+- 5 cinta",5,3,,,,,,,,,,,,2,1,,,,,,,,,,,,,,
+64723,2493,07/07/2021,12:20,08/07/2021,14:54,02:34,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de caja Nap, adecuación en 5 columnas con cable ADSS troncal y cruceta respectiva",Cambio de Columna,1,ASU01,ASU,"-25.329324,
+-57.503994",Adecuación,Cambio de Columna,Caja Nap,"Adecuación de caja Nap, adecuación en 5 columnas con cable ADSS troncal y cruceta respectiva",,,,,,,FASE 1,"- 7 cinta
+- 7 hebillas
+- 2 dielectrico
+- 2 preformado",7,7,,,,,,,2,,,,,,2,,,,,,,,,,,,,,
+64483 ,2496,08/07/2021,15:12,08/07/2021,17:46,02:34,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizó adecuación preventiva en 7 columnas 4 Nap y SFC de las 1 a la 4",Cambio de Columna,1,ASU01,ASU,"-25.330667,
+-57.500167",Adecuación,Cambio de Columna,Caja Nap,Se realizó adecuación preventiva en 7 columnas 4 Nap y SFC de las 1 a la 4,,,,,,,FASE 2,"- 7 cinta
+- 7 hebilla",7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64886 ,2497,08/07/2021,15:34,08/07/2021,17:50,02:16,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+Cable SFC
+SOLUCION: Se realizó trabajo de Adecuación de caja Nap, SFC y FO de 24 en 3 columnas nuevas",Cambio de Columna,1,ASU03,ASU,"-25.359927,
+-57.463585",Adecuación,Cambio de Columna,"Caja Nap
+Cable SFC","Se realizó trabajo de Adecuación de caja Nap, SFC y FO de 24 en 3 columnas nuevas",,,,,,,FASE 2,"- 6 trébol
+- 7 hebilla
+- 12 cinta
+- 7 retenedores",12,7,,7,,,,,,,,,,6,,,,,,,,,,,,,,,
+64928 ,2498,08/07/2021,15:38,08/07/2021,19:11,03:33,S/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC e instalación de herrajeria y una fusión en conector",Cambio de Columna,1,ASU04,ASU,"-25.360539,
+-57.589854",Corte de FO,Cambio de Columna,Cable SFC,Se realizo el tendido de cable SFC e instalación de herrajeria y una fusión en conector,cambio,250,250,250,,,FASE 2,"- 4 hebilla
+- 4 trebol
+- 5 cinta
+- 250 SFC",5,4,,,,,,,,,,,,4,,,,,,,,,1,,,,,,
+64757,2507,09/07/2021,07:13,09/07/2021,12:51,05:38,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de caja Nap, cable ADSS 3 columnas",Cambio de Columna,1,ASU04,ASU,"-25.250540,
+-57.512894",Adecuación,Cambio de Columna,Caja Nap,"Adecuación de caja Nap, cable ADSS 3 columnas",,,,,,,FASE 2,"- 3 dielectricos
+- 6 hebillas
+- 1 base ojal
+- 3 preformado con camisa
+- 8 cinta",8,6,,,,,,1,3,,,,,,3,,,,,,,,,,,,,,
+64959 ,2512,08/07/2021,15:48,09/07/2021,17:14,01:26,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de caja Nap",Cambio de Columna,1,ASU01,ASU,"-25.321973,
+-57.494140",Adecuación,Cambio de Columna,Caja Nap,Adecuación de caja Nap,,,,,,,FASE 2,"- 2 cinta
+- 2 hebilla
+- 1 trebol",2,2,,,,,,,,,,,,1,,,,,,,,,,,,,,,
+65261,2503,08/07/2021,11:29,09/07/2021,13:14,01:45,S/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+Caja Nap
+SOLUCION: se realizo el tendido de cable SFC y adecuación de cajas Nap",Cambio de Columna,1,ASU01,ASU,"-25.373317,
+-57.532013",Corte de FO,Cambio de Columna,"Cable SFC
+Caja Nap",se realizo el tendido de cable SFC y adecuación de cajas Nap,cambio,150,150,150,,,FASE 2,"- 150 SFC
+- 3 cinta
+- 3 hebilla
+- 2 retenedores",3,3,,2,,,,,,,,,,,,,,,,,,,,1,,,,,
+65265,2504,08/07/2021,07:13,09/07/2021,13:37,06:24,N/C,"RECLAMO: Alta Atenuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+Caja Nap
+SOLUCION: Adecuación de caja Nap y fusion, tambien el tendido nuevo de cable SFC",Cambio de Columna,1,ASU03,ASU,"-25.250462,
+-57.505903",Alta Atenuación,Cambio de Columna,"Cable SFC
+Caja Nap","Adecuación de caja Nap y fusion, tambien el tendido nuevo de cable SFC",cambio,80,80,80,,,FASE 2,"- 11 retenedores
+- 12 soporte ojal
+- 10 hebilla
+- 12 cinta
+- 80 SFC",12,10,,11,,,,12,,,,,,,,,,,,,,,,,,1,,,
+65406,2508,09/07/2021,12:56,09/07/2021,17:27,04:31,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+Caja Nap
+SOLUCION: Se realizo adecuación de caja Nap  y tendido de cable SFC",Cambio de Columna,1,ASU04,ASU,"-25.311761,
+-57.476294",Adecuación,Cambio de Columna,"Cable SFC
+Caja Nap",Se realizo adecuación de caja Nap  y tendido de cable SFC,cambio,"80
+80","80
+80",80,80,,FASE 2,"- 7 trebol
+- 8 hebilla
+- 4 retenedores
+- 80 SFC
+- 80 SFC",,8,,4,,,,,,,,,,7,,,,,,,,,,,,2,,,
+65372 ,2510,09/07/2021,13:35,09/07/2021,19:14,05:39,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+Caja Nap
+SOLUCION: Se realizo adecuación de caja Nap  y tendido de cable SFC",Cambio de Columna,1,ASU03,ASU,"-25.282758,
+-57.502724",Adecuación,Cambio de Columna,"Cable SFC
+Caja Nap",Se realizo adecuación de caja Nap  y tendido de cable SFC,cambio,150,150,150,,,FASE 2,"- 5 trebol
+- 5 hebilla
+- 6 retenedores
+- 5 cinta
+- 150 SFC",5,5,,6,,,,,,,,,,5,,,,,,,,,,1,,,,,
+64990,2520,08/07/2021,12:35,10/07/2021,15:12,02:37,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+Cable FO 24 hilos
+SOLUCION:  Se realizó trabajo de Adecuación de caja Nap y FO de 24 hilos",Cambio de Columna,1,ASU03,ASU,"-25.371381,
+-57.548396",Adecuación,Cambio de Columna,"Caja Nap
+Cable FO 24 hilos", Se realizó trabajo de Adecuación de caja Nap y FO de 24 hilos,,,,,,,FASE 2,"- 2 soporte ojal
+- 2 trébol
+- 3 hebilla
+- 6 cinta
+- 2 preformado con camisa",6,3,,,,,,2,2,,,,,2,,,,,,,,,,,,,,,
+65064 ,2521,08/07/2021,12:39,10/07/2021,14:50,02:11,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la adecuación de caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.363831,
+-57.614439",Adecuación,Cambio de Columna,Caja Nap,Se realizo la adecuación de caja Nap,,,,,,,FASE 2,"- 5 cinta
+- 3 hebillas
+- 2 trébol",5,3,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+65570 ,2522,10/07/2021,15:04,10/07/2021,16:43,01:39,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la adecuación de caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.368090,
+-57.626775",Adecuación,Cambio de Columna,Caja Nap,Se realizo la adecuación de caja Nap,,,,,,,FASE 2,"- 4 cinta
+- 3 hebilla
+- 2 trébol",4,3,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+65055 ,2523,10/07/2021,15:19,10/07/2021,16:40,01:21,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la adecuación de caja Nap",Cambio de Columna,1,ASU03,ASU,"-25.372705,
+-57.541092",Adecuación,Cambio de Columna,Caja Nap,Se realizo la adecuación de caja Nap,,,,,,,FASE 2,"- 3 soporte ojal
+- 4 hebilla
+- 5 cinta",5,4,,,,,,3,,,,,,,,,,,,,,,,,,,,,
+65033,2533,08/07/2021,07:16,12/07/2021,11:08,03:52,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la adecuación de caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.339467,
+-57.597367",Adecuación,Cambio de Columna,Caja Nap,Se realizo la adecuación de caja Nap,,,,,,,FASE 2,"- 3 cinta metálica
+- 3 hebilla",3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65503 ,2536,12/07/2021,11:22,12/07/2021,15:03,03:41,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la adecuación de caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.337563,
+-57.609086",Adecuación,Cambio de Columna,Caja Nap,Se realizo la adecuación de caja Nap,,,,,,,FASE 2,"- 4 cinta metálica
+- 3 hebillas
+- 2 retenedores
+- 2 preformado",4,3,,2,,,,,2,,,,,,,,,,,,,,,,,,,,
+65308,2539,12/07/2021,15:14,12/07/2021,17:13,01:59,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la adecuación de caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.336842,
+-57.602634",Adecuación,Cambio de Columna,Caja Nap,Se realizo la adecuación de caja Nap,,,,,,,FASE 2,"- 4 cinta metálica
+- 3 hebilla",4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66315,2542,12/07/2021,07:28,13/07/2021,15:21,07:53,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: se realizo la adecuación de 2 cajas Nap, tendido nuevo de cable SFC, adecuación de SFC en 2 columnas",Cambio de Columna,1,ASU03,ASU,"-25.319246,-57.489348",Adecuación,Cambio de Columna,Cable SFC,"se realizo la adecuación de 2 cajas Nap, tendido nuevo de cable SFC, adecuación de SFC en 2 columnas",,,,,,,FASE 2,"- 6 cinta metálica
+- 7 hebilla
+- 5 soporte ojal
+- 5 retenedores",6,7,,5,,,,5,,,,,,,,,,,,,,,,,,,,,
+64496 ,2551,13/07/2021,15:25,13/07/2021,18:37,03:12,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizó trabajo de Adecuación de caja Nap y FO de 24 hilos",Cambio de Columna,1,ASU03,ASU,-82.830282,Adecuación,Cambio de Columna,Caja Nap,Se realizó trabajo de Adecuación de caja Nap y FO de 24 hilos,,,,,,,FASE 1,"- 2 preformado con camisa
+- 2 soporte ojal
+- 2 trebol
+- 5 hebillas
+- 5 cinta metálica
+- 1 cruceta",5,5,,,,,,2,2,,,,,2,,,,,,,1,,,,,,,,
+65380 ,2552,09/07/2021,16:40,13/07/2021,18:00,01:20,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION:  se adecuó la caja Nap por la columna nueva",Cambio de Columna,1,ASU02,ASU,"-25.383082,
+-57.538393",Adecuación,Cambio de Columna,Caja Nap, se adecuó la caja Nap por la columna nueva,,,,,,,FASE 2,"- 3 cinta metálica
+- 2 hebillas
+- 2 trébol",3,2,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+66365 ,2549,12/07/2021,15:07,13/07/2021,17:39,02:32,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: adecuación de cable ADSS y adecuación de caja Nap en columna",Cambio de Columna,1,ASU04,ASU,"-25.295083,
+-57.542822",Adecuación,Cambio de Columna,Caja Nap,adecuación de cable ADSS y adecuación de caja Nap en columna,,,,,,,FASE 2,"- 2 base ojal
+- 3 preformado con camisa
+- 2 dielectrico
+- 7 hebilla
+- 8 cinta metálica",8,7,,,,,,2,3,,,,,,2,,,,,,,,,,,,,,
+66690,2560,13/07/2021,12:53,14/07/2021,14:53,02:00,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se realizo la adecuación de caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.353768,
+-57.624518",Adecuación,Cambio de Columna,Caja Nap,se realizo la adecuación de caja Nap,,,,,,,FASE 2,"- 3 cinta metálica
+- 2 hebilla
+- 1 retenedor",3,2,,1,,,,,,,,,,,,,,,,,,,,,,,,,
+65196 ,2561,14/07/2021,12:54,14/07/2021,14:08,01:14,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se realizo la adecuación de caja Nap",Cambio de Columna,1,ASU04,ASU,"-25.365069,
+-57.414615",Adecuación,Cambio de Columna,Caja Nap,se realizo la adecuación de caja Nap,,,,,,,FASE 2,"- 2 trebol
+- 3 cinta metálica
+- 2 hebilla",3,2,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+064188 ,2562,10/07/2021,14:44,14/07/2021,17:21,02:37,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se realizo la adecuación de caja Nap, ADSS 3 postes",Cambio de Columna,1,ASU04,ASU,"-25.339222,
+-57.531750",Adecuación,Cambio de Columna,Caja Nap,"se realizo la adecuación de caja Nap, ADSS 3 postes",,,,,,,FASE 1,"- 3 dielectrico
+- 2 base ojal
+- 7 hebilla
+- 8 cinta metálica",8,7,,,,,,2,,,,,,,3,,,,,,,,,,,,,,
+067094 ,2563,14/07/2021,15:29,14/07/2021,16:27,00:58,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: se realizo la adecuación de caja Nap y el tendido de cable SFC",Cambio de Columna,1,ASU02,ASU,"-25.364969,
+-57.619067",Adecuación,Cambio de Columna,Cable SFC,se realizo la adecuación de caja Nap y el tendido de cable SFC,cambio,100,100,100,,,FASE 2,"- 4 cinta metálica
+- 4 hebilla
+- 3 retenedores
+- 100 SFC",4,4,,3,,,,,,,,,,,,,,,,,,,,,1,,,,
+67186,2567,14/07/2021,07:31,15/07/2021,13:22,05:51,N/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC, adecuación en columnas",Cambio de Columna,1,ASU03,ASU,"-25.303035,
+-57.511337",Corte de FO,Cambio de Columna,Cable SFC,"Se realizo el tendido de cable SFC, adecuación en columnas",cambio,150,150,150,,,FASE 2,"- 150 SFC
+- 8 soporte ojal
+- 4 hebilla
+- 6 cinta metálica",6,4,,,,,,8,,,,,,,,,,,,,,,,1,,,,,
+67656 ,2579,15/07/2021,15:13,15/07/2021,17:12,01:59,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable ADSS
+SOLUCION: Adecuación de cable ADSS en dos columnas",Cambio de Columna,1,ASU04,ASU,"-25.283029,
+-57.611341",Adecuación,Cambio de Columna,Cable ADSS,Adecuación de cable ADSS en dos columnas,,,,,,,FASE 1,"- 2 dielectrico
+- 2 hebilla
+- 2 cinta metálica",2,2,,,,,,,,,,,,,2,,,,,,,,,,,,,,
+67097,2566,14/07/2021,07:27,16/07/2021,11:57,04:30,S/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC, adecuación en columnas",Cambio de Columna,1,ASU01,ASU,"-25.322736,
+-57.484695",Corte de FO,Cambio de Columna,Cable SFC,"Se realizo el tendido de cable SFC, adecuación en columnas",cambio,250,250,250,,,FASE 2,"- 2 trébol
+- 250 SFC
+- 6 retenedores
+- 2 cinta metálica
+- 2 hebilla",2,2,,6,,,,,,,,,,2,,,,,,,,,1,,,,,,
+67330,2586,14/07/2021,07:27,16/07/2021,17:32,10:05,N/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de FO SFC 350 metros y se adecuó por poste nuevo",Cambio de Columna,1,ASU01,ASU,"-25.305018,
+-57.513232",Corte de FO,Cambio de Columna,Cable SFC,Se realizo el tendido de FO SFC 350 metros y se adecuó por poste nuevo,cambio,350,350,350,,,FASE 2,"- 350 SFC
+- 10 cinta metálica
+- 10 hebilla
+- 6 trebol
+- 8 retenedores",10,10,,8,,,,,,,,,,6,,,,,,,,1,,,,,,,
+65856 ,2580,15/07/2021,07:27,16/07/2021,14:03,06:36,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de  caja Nap , una medición con OTDR para identificar el corte , fusiones",Cambio de Columna,1,ASU03,ASU,"-25.354551,
+-57.557289",Adecuación,Cambio de Columna,Caja Nap,"Adecuación de  caja Nap , una medición con OTDR para identificar el corte , fusiones",,,,,,,FASE 2,"- 4 termo contraible
+- 2 soporte ojal
+- 2preformado con camisa
+- 3 cinta metálica
+- 3 hebilla",3,3,4,,,,,2,2,,,,,,,,,,,,,,,,,,,,
+65555,2590,09/07/2021,13:58,16/07/2021,16:06,02:08,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la adecuación de caja Nap",Cambio de Columna,1,ASU03,ASU,"-25.343101,
+-57.567258",Adecuación,Cambio de Columna,Caja Nap,Se realizo la adecuación de caja Nap,,,,,,,FASE 2,"- 2 soporte ojal
+- 2 preformado con camisa
+- 3 cinta
+- 3 hebilla",3,3,,2,,,,2,,,,,,,,,,,,,,,,,,,,,
+67584,2592,15/07/2021,16:09,16/07/2021,18:46,02:37,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable FO 24 hilos
+SOLUCION: Se realizó  adecuación de FO 24",Cambio de Columna,1,ASU03,ASU,"-25.332373,
+-57.503886",Adecuación,Cambio de Columna,Cable FO 24 hilos,Se realizó  adecuación de FO 24,,,,,,,FASE 2,"- 2 soporte ojal
+- 1 diectrico
+- 2 hebillas",,2,,,,,,2,,,,,,,1,,,,,,,,,,,,,,
+65281,2593,15/07/2021,17:14,16/07/2021,18:16,01:02,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se procedió a la limpieza de los puertos y se conecto correctamente.",Cambio de Columna,1,ASU02,ASU,"-25.390323,
+-57.566577",Adecuación,Cambio de Columna,Caja Nap,se procedió a la limpieza de los puertos y se conecto correctamente.,,,,,,,FASE 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68064,2601,16/07/2021,12:45,17/07/2021,17:45,05:00,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la adecuación de caja Nap",Cambio de Columna,1,ASU01,ASU,"-25.336474,
+-57.600917",Adecuación,Cambio de Columna,Caja Nap,Se realizo la adecuación de caja Nap,,,,,,,FASE 2,"- 2 cinta metálica
+- 2 hebilla
+- 1 dielectrico",2,2,,,,,,,,,,,,,1,,,,,,,,,,,,,,
+67726,2603,15/07/2021,13:25,17/07/2021,17:40,04:15,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación de cable ADSS, caja FDT, caja Nap en 8 columnas",Cambio de Columna,1,ASU04,ASU,"-25.314222,
+-57.519194",Adecuación,Cambio de Columna,Caja Nap,"Adecuación de cable ADSS, caja FDT, caja Nap en 8 columnas",,,,,,,FASE 1,"- 6 dielectricos
+- 6 base ojal
+- 11 hebillas
+- 17 cinta metálica",17,11,,,,,,6,,,,,,,6,,,,,,,,,,,,,,
+68314,2605,17/07/2021,07:26,18/07/2021,10:20,02:54,S/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION:  Se realizó un nuevo tendido de 150 metros de SFC",Cambio de Columna,1,ASU03,ASU,"-25.366353,
+-57.467100",Corte de FO,Cambio de Columna,Cable SFC, Se realizó un nuevo tendido de 150 metros de SFC,cambio,150,150,150,,,FASE 2,- 150 SFC,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+68267,2609,17/07/2021,10:20,18/07/2021,13:23,03:03,S/C,"RECLAMO: Alta Atenuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Se realizo el tendido de cable SFC, adecuación en columnas",Cambio de Columna,1,ASU03,ASU,"-25.351538,
+-57.460347",Alta Atenuación,Cambio de Columna,Cable SFC,"Se realizo el tendido de cable SFC, adecuación en columnas",reparacion,"80
+80","80
+100",80,100,,FASE 2,"- 4 retenedores
+- 80 SFC
+- 80 SFC
+- 2 termo contraible",,,2,4,,,,,,,,,,,,,,,,,,,,,,2,,,
+68141,2606,16/07/2021,08:26,18/07/2021,12:50,04:24,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la adecuación de caja Nap y cable ADSS",Cambio de Columna,1,ASU02,ASU,"-25.334862,
+-57.611175",Adecuación,Cambio de Columna,Caja Nap,Se realizo la adecuación de caja Nap y cable ADSS,,,,,,,FASE 2,"- 3 cinta metálica
+- 3 hebillas",3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67825,2611,16/07/2021,11:56,18/07/2021,18:52,06:56,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: adecuacion de caja Nap y tendido nuevo de FO24 pelos 100 metros",Cambio de Columna,1,ASU03,ASU,"-25.267269,
+-57.504274",Adecuación,Cambio de Columna,Caja Nap,adecuacion de caja Nap y tendido nuevo de FO24 pelos 100 metros,,,,,,,FASE 1,"- 4 preformado con camisa
+- 4 hebilla
+- 4 soporte ojal
+- 6 cinta metálica
+- 100 FO 24 hilos
+- 1 caja de empalme de 48 hilos
+- 2 termo contraible",4,4,2,,1,,,4,4,,100,,,,,,,,,,,,,,,,,,
+67796 ,2615,18/07/2021,15:03,18/07/2021,17:30,02:27,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se adecuó la caja Nap por instalación de nueva columna",Cambio de Columna,1,ASU02,ASU,"-25.388992,
+-57.511545",Adecuación,Cambio de Columna,Caja Nap,se adecuó la caja Nap por instalación de nueva columna,,,,,,,FASE 2,"- 4 cinta metálica
+- 3 hebillas
+- 2 trébol",4,3,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+68384,2616,18/07/2021,07:02,19/07/2021,14:50,07:48,N/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable FO 24 Hilos
+SOLUCION: Se realizó adecuación de caja Nap y  fusión, se cambio el splitter 1x16 ",Cambio de Columna,1,ASU04,ASU,"-25.256279,
+-57.587646",Corte de FO,Cambio de Columna,Cable FO 24 Hilos,"Se realizó adecuación de caja Nap y  fusión, se cambio el splitter 1x16 ",,,,,,,FASE 1,"- 1 splitter 1x16
+- 2 termo contraible
+- 2 base ojal
+- 2 preformado con camisa ",,,2,,,,,2,2,,,,,,,1,,,,,,,,,,,,,
+64188,2617,06/07/2021,07:02,19/07/2021,11:13,04:11,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación en caja Nap",Cambio de Columna,1,ASU03,ASU,"-25.339222,
+-57.531750",Adecuación,Cambio de Columna,Caja Nap,Adecuación en caja Nap,,,,,,,FASE 2,"- 2 preformado con camisa
+- 3 hebillas
+- 2 soporte ojal",,3,,,,,,2,2,,,,,,,,,,,,,,,,,,,,
+67561,2618,15/07/2021,08:02,19/07/2021,12:31,04:29,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación en caja Nap y  cable de FO ADSS",Cambio de Columna,1,ASU01,ASU,"-25.328017,
+-57.510694",Adecuación,Cambio de Columna,Caja Nap,Adecuación en caja Nap y  cable de FO ADSS,,,,,,,FASE 2,"- 5 cinta metalica
+- 5 hebillas
+- 2 dielectrico",5,5,,,,,,,,,,,,,2,,,,,,,,,,,,,,
+"67645
+67642",2619,17/07/2021,07:02,19/07/2021,11:06,04:04,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Adecuación en caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.388992,
+-57.511545",Adecuación,Cambio de Columna,Caja Nap,Adecuación en caja Nap,,,,,,,FASE 2,"- 4 cinta metalica
+- 3 hebillas
+- 2 herrajes trebol",4,3,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+67574 ,2622,14/07/2021,11:19,19/07/2021,14:57,03:38,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizó trabajo de Adecuación de caja Nap y FO de 24 pelos",Cambio de Columna,1,ASU03,ASU,"-25.318445,
+-57.520277",Adecuación,Cambio de Columna,Caja Nap,Se realizó trabajo de Adecuación de caja Nap y FO de 24 pelos,,,,,,,FASE 2,"- 6 cinta metalica
+- 6 soporte ojal
+- 5 hebilla",6,5,,,,,,6,,,,,,,,,,,,,,,,,,,,,
+67573,2623,14/07/2021,11:20,19/07/2021,16:48,05:28,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizó trabajo de Adecuación de caja Nap y FO de 24 hilos ",Cambio de Columna,1,ASU03,ASU,"-25.319498,
+-57.520954",Adecuación,Cambio de Columna,Caja Nap,Se realizó trabajo de Adecuación de caja Nap y FO de 24 hilos ,,,,,,,FASE 2,"- 2 soporte ojal
+- 3 cinta metalica
+- 4 hebillas
+- 1 dielectrico
+- 1 preformado con camisa",3,4,,,,,,2,1,,,,,,1,,,,,,,,,,,,,,
+68607,2626,19/07/2021,12:39,19/07/2021,18:40,06:01,N/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Cable FO 48 Hilos
+SOLUCION: Se realizó 7 fusiones y Adecuación con cruzeta",Cambio de Columna,1,ASU01,ASU,"-25.312273,
+-57.611994",Corte de FO,Cambio de Columna,Cable FO 48 Hilos,Se realizó 7 fusiones y Adecuación con cruzeta,,,,,,,FASE 1,"- 1 cruceta
+- 7 termo contraible
+- 1 caja de empalme 48 hilos
+- 4 cinta metalica
+- 4 hebilla
+- 2 preformado y camisa
+- 2 camisas",4,4,7,,1,,,,2,2,,,,,,,,,,,1,,,,,,,,
+68512,2628,19/07/2021,15:06,19/07/2021,17:26,02:20,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizó adecuación de caja Nap y ADSS en 4 columnas",Cambio de Columna,1,ASU04,ASU,"-25.258680,
+-57.588926",Adecuación,Cambio de Columna,Caja Nap,Se realizó adecuación de caja Nap y ADSS en 4 columnas,,,,,,,FASE 1,"- 3 dielectrico
+- 1 base ojal
+- 1 preformado con camisa",,,,,,,,1,1,,,,,,3,,,,,,,,,,,,,,
+68615,2629,19/07/2021,15:49,19/07/2021,17:28,01:39,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: Se realizo la adecuación correcta de la caja Nap",Cambio de Columna,1,ASU02,ASU,"-25.397035,
+-57.552569",Adecuación,Cambio de Columna,Caja Nap,Se realizo la adecuación correcta de la caja Nap,,,,,,,FASE 2,"- 3 cinta metalica
+- 3 hebilla
+- 2 trebol",3,3,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+68795,2632,19/07/2021,07:24,20/07/2021,10:39,03:15,S/C,"RECLAMO: Corte de FO
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se realizo la adecuación de cable ADSS y limpieza de puertos en caja Nap",Cambio de Columna,1,ASU04,ASU,"-25.281256,
+-57.501869",Corte de FO,Cambio de Columna,Caja Nap,se realizo la adecuación de cable ADSS y limpieza de puertos en caja Nap,,,,,,,FASE 1,"- 2 dielectricos
+- 2 prerformado con camisa
+- 2 hebilla
+- 3 cinta metalica",3,2,,,,,,,2,,,,,,2,,,,,,,,,,,,,,
+067566 ,2631,19/07/2021,07:23,20/07/2021,15:35,08:12,N/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+SOLUCION: se realizo la adecuación de 3 cajas Nap y FO 24 pelos",Cambio de Columna,1,ASU03,ASU,"-25.330566,
+-57.512194",Adecuación,Cambio de Columna,Caja Nap,se realizo la adecuación de 3 cajas Nap y FO 24 pelos,,,,,,,FASE 1,"- 4 preformado con camisa
+- 4 soporte ojal
+- 10 hebillas
+- 3 dielectrico
+- 12 cinta metálica
+- 120 cable FO 24 hilos
+- 3 termo contraible",12,10,3,,,,,4,4,,120,,,,3,,,,,,,,,,,,,,
+67602,2639,20/07/2021,10:56,20/07/2021,14:13,03:17,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Caja Nap
+Caja FDT
+SOLUCION: Se realizo la adecuación de caja Nap y caja FDT",Cambio de Columna,1,ASU04,ASU,"-25.332046,
+-57.504195",Adecuación,Cambio de Columna,"Caja Nap
+Caja FDT",Se realizo la adecuación de caja Nap y caja FDT,,,,,,,FASE 2,"- 2 base ojal
+- 4 cinta metálica
+- 2 preformado con camisa
+- 3 hebilla",4,3,,,,,,2,2,,,,,,,,,,,,,,,,,,,,
+067736 ,2641,20/07/2021,12:09,20/07/2021,13:05,00:56,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable FO ADSS
+SOLUCION: Se realizo la adecuación de cable FO ",Cambio de Columna,1,ASU02,ASU,"-25.312135,
+-57.517719",Adecuación,Cambio de Columna,Cable FO ADSS,Se realizo la adecuación de cable FO ,,,,,,,FASE 1,"- 2 cinta metálica
+- 1 hebiila
+- 1 dielectrico",2,1,,,,,,,,,,,,,1,,,,,,,,,,,,,,
+68735 ,2643,20/07/2021,14:13,20/07/2021,15:21,01:08,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: se realizo cambio de cable SFC",Cambio de Columna,1,ASU01,ASU,"-25.362700,
+-57.527374",Adecuación,Cambio de Columna,Cable SFC,se realizo cambio de cable SFC,cambio,80,80,80,,,FASE 2,- 80 SFC,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+67604,2646,15/07/2021,15:35,20/07/2021,17:24,01:49,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable FO 24 Hilos
+SOLUCION: 3 columnas adecuadas de cable FO 24 pelos",Cambio de Columna,1,ASU03,ASU,"-25.327718,
+-57.508856",Adecuación,Cambio de Columna,Cable FO 24 Hilos,3 columnas adecuadas de cable FO 24 pelos,,,,,,,FASE 1,"- 2 preformado con camisa
+- 2 soporte ojal
+- 1 dielectriico
+- 2 cinta metálica
+- 2 hebilla",2,2,,,,,,2,2,,,,,,1,,,,,,,,,,,,,,
+68830,2648,20/07/2021,18:23,20/07/2021,20:00,01:37,S/C,"RECLAMO: Adecuación
+CAUSA: Cambio de Columna
+PRODUCTO: Cable SFC
+SOLUCION: Se realzo la adecuación del cableado SFC",Cambio de Columna,1,ASU03,ASU,"-25.308634,
+-57.517526",Adecuación,Cambio de Columna,Cable SFC,Se realzo la adecuación del cableado SFC,,,,,,,FASE 2,"- 2 preformado con camisa
+- 2 soporte ojal
+- 2 cinta metálica
+- 3 hebilla",2,3,,,,,,2,2,,,,,,,,,,,,,,,,,,,,

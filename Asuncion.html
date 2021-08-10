@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+
+    <title>Document</title>
+    <style>
+        body {
+            font-size: smaller;
+            font-family: "Segoe UI", "Segoe", Tahoma, Helvetica, Arial, sans-serif;
+        }
+        
+        table {
+            background-color: white;
+            text-align: left;
+            border-collapse: separate;
+            border-spacing: 1px;
+        }
+        
+        tbody tr:nth-child(even) {
+            background-color: #cac2fdb0;
+        }
+        
+        tbody tr {
+            border-bottom: solid rgb(161, 160, 160) 1px;
+        }
+        
+        tr:hover td {
+            background-color: rgba(23, 43, 67, 0.82);
+            color: white;
+        }
+        
+        thead {
+            background-color: rgba(23, 43, 67, 0.82);
+            color: white;
+        }
+        
+        th {
+            background-color: rgba(23, 43, 67, 0.82);
+            color: white;
+            text-align: center;
+        }
+        
+        .centreado {
+            text-align: center;
+        }
+        
+        table thead tr th {
+            border-width: 0.5px;
+            font-style: normal;
+            border-color: white;
+            padding: 10px;
+        }
+        
+        .tableSize {
+            width: 510px;
+        }
+        
+        .minimo {
+            min-width: 230px;
+        }
+        
+        h4 {
+            padding-bottom: 10px;
+            padding-top: 5px;
+        }
+        
+        p {
+            font-size: large;
+        }
+        
+        table {
+            background-color: rgba(245, 245, 245, 0.781);
+        }
+        
+        .headers {
+            background-color: rgba(23, 43, 67, 0.82);
+            color: white;
+        }
+        
+        .tittleHeader {
+            padding: 0;
+            margin: 0;
+            text-shadow: 2px 2px 4px #000000;
+            text-align: center;
+        }
+        
+        .footerText {
+            padding: 0;
+            margin: 0;
+            text-shadow: 2px 2px 4px #000000;
+            text-align: center;
+            color: white;
+        }
+        
+        .pieChart {
+            height: 500px !important;
+            width: 500px !important;
+            margin-top: -100px;
+            margin-bottom: -130px;
+            text-align: center;
+        }
+        
+        .pieStyle {
+            background-color: rgba(221, 212, 212, 0.5);
+            padding-bottom: 50px;
+            padding-top: 20px;
+            /* border-bottom: 100px; */
+        }
+        
+        .footerStyle {
+            background-color: rgba(23, 43, 67, 0.82);
+            height: 40px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="container-fluid">
+            <div class="row headers align-items-center">
+                <div class="d-none d-sm-none d-md-block col-md-2">
+                    <img src="http://hansaproyectosyservicios.com/wp-content/uploads/2020/11/LOGO-HANSA.png" class="img-fluid imgLogo d-block" alt="Logo Hansa Proyecto & Servicios">
+                </div>
+                <div class="col-12 col-sm-12 col-md-8 justify-content-center">
+                    <h1 class="tittleHeader">INFORME DE SERVICIO</h1>
+                    <h3 class="tittleHeader">SOPORTE DE F.O. FIJA PARA PERSONAL</h3>
+                    <p class="tittleHeader">EN LAS BASES DE CDE, ENC, COV/VIR/CAG - 1 al 16 de Junio del 2021</p>
+                </div>
+                <div class="d-none d-sm-none d-md-block col-md-2">
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc4%2FPersonal_logonuevo.png&f=1&nofb=1 " alt="Logo Empresa Personal Paraguay " class="img-fluid imgLogo">
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="container">
+        <div class="row">
+            <div class="col-12">
+                <h4>Resumen</h4>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 col-md-2">
+            </div>
+            <div class="col-12 col-md-10">
+                <table class="tableSize">
+                    <tr>
+                        <th>Número NPA</th>
+                        <td>4600065911</td>
+                    </tr>
+                    <tr>
+                        <th>Contrato</th>
+                        <td>SOPORTE DE FIBRA ÓPTICA EN LA RED FIJA NÚCLEO S.A. </td>
+                    </tr>
+                    <tr>
+                        <th>Proveedor</th>
+                        <td>HANSA PARAGUAY SRL.</td>
+                    </tr>
+                    <tr>
+                        <th>Periodo</th>
+                        <td>Del 1 de Junio 2021</td>
+                    </tr>
+                    <tr>
+                        <th>Soporte técnico</th>
+                        <td>ASUNCIÓN, GRAN ASUNCIÓN Y SAN BERNARDINO</td>
+                    </tr>
+                    <tr>
+                        <th>Cuadrillas</th>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <th>
+                            Link en Project Server
+                        </th>
+                        <td><a href="https://proyectos.hansa.com.bo/SOPORTE_DE_FO_EN_LA_RED_FIJA_DE_NUCLEO_SA/default.aspx">https://proyectos.hansa.com.bo/soporte-fo</a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <h4>1. Objetivo</h4>
+                <p>El objetivo es brindar un informe acumulativo detallado de las atenciones de eventos en la zona de Asunción, con el uso de herramientas digitales.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h4>2. Detalle de Materiales Utilizados y Saldos Disponibles</h4>
+                <p>CIUDAD DE ASUNCION</p>
+            </div>
+        </div>
+        <div class="row align-content-center">
+            <div class="col-12 col-md-2"></div>
+            <div class="col-12 col-md-10">
+                <table>
+                    <thead>
+
+                        <tr>
+                            <th colspan="5">ESTIMACIÓN DE MATERIALES REQUERIDOS ASUNCION</th>
+                            <th>18 - ENERO</th>
+                        </tr>
+                        <tr>
+                            <th>ITEM</th>
+                            <th>MATERIALES</th>
+                            <th>UNIDAD</th>
+                            <th>STOCK</th>
+                            <th>UTILIZADO</th>
+                            <th>SALDO</th>
+                            </trss=>
+                    </thead>
+                    <tbody id="materialTable">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h4>3. Service Level Agreement</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-2">
+            </div>
+            <div class="col-12 col-md-10">
+                <table class="tableSize">
+                    <tr>
+                        <th class="tablaResumen" colspan="3"> SLA MANTENIMIENTO PERSONAL ASUNCION</th>
+                    </tr>
+                    <tr>
+                        <th class="tablaResumen">Descripción</th>
+                        <th class="tablaResumen" colspan="2">ASU</th>
+                    </tr>
+                    <tbody>
+                        <tr>
+                            <td>Atención de reclamo con acuse de mail</td>
+                            <td colspan="2">10 Min</td>
+                        </tr>
+                        <tr>
+                            <td>Salida de Base</td>
+                            <td colspan="2">a los 50 Min</td>
+                        </tr>
+                        <tr>
+                            <td>llegada a sitio</td>
+                            <td colspan="2">a los 60 Min</td>
+                        </tr>
+                        <tr>
+                            <td>Detección de Punto de Evento</td>
+                            <td colspan="2">+ 60 Min</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2">Solución</td>
+                            <th class="tablaResumen">FO 24</th>
+                            <th class="tablaResumen">FO 48</th>
+                        </tr>
+                        <tr>
+                            <td>+01 hrs</td>
+                            <td>+02 hrs</td>
+                        </tr>
+                        <tr>
+                            <td>TOTAL SLA</td>
+                            <td>04 hrs</td>
+                            <td>04 hrs</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <h4>5. Soporte</h4>
+                <h4>5.1 Servicio de soporte técnico</h4>
+                <h4>5.1.1 Detalle de Eventos</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-2"></div>
+            <div class="col-12 col-md-10">
+                <table class="tableSize">
+                    <thead>
+
+                        <tr>
+                            <th>Código de colores asignado<br> de acuerdo al tipo de evento</th>
+                            <th>Tipo de Evento</th>
+                            <th>Asunción</th>
+                        </tr>
+                    </thead>
+                    <tbody id="eventosTable">
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="2">Total</td>
+                            <td id="sumaPie"></td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h4>5.1.2 Detalle de Eventos en Porcentajes</h4>
+            </div>
+        </div>
+        <div class="row pieStyle">
+            <div class="col-12 col-md-2"></div>
+            <div class="col-12 col-md-8 justify-content-center align-middle">
+                <div class="pieChart">
+                    <canvas id="pie-chart">
+                    </canvas>
+                </div>
+            </div>
+            <div class="col-12 col-md-2"></div>
+
+        </div>
+        <br><br>
+        <div class="row">
+            <div class="col-12">
+                <h4>5.1.3 Cumplimiento de Eventos de acuerdo a SLA</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-2"></div>
+            <div class="col-12 col-md-10">
+                <div class="table-responsive">
+                    <table class="tableSize">
+                        <thead class="align-middle">
+                            <tr>
+                                <th>DESCRIPCION</th>
+                                <th>CANTIDAD</th>
+                                <th>PORCENTAJE</th>
+                            </tr>
+                        </thead>
+                        <tbody id="slaTable">
+                            <tr>
+                                <td>Casos Sin Cumplimiento de SLA</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>Casos en Cumplimiento de SLA</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>Total</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h4>5.1.4 Cantidad de Eventos según Fase</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-2"></div>
+            <div class="col-12 col-md-10">
+                <div class="table-responsive">
+
+                    <table class="tableSize">
+                        <thead>
+                            <tr>
+                                <th>DESCRIPCION</th>
+                                <th>CANTIDAD</th>
+                                <th>PORCENTAJE</th>
+                            </tr>
+                        </thead>
+                        <tbody id="faseTable">
+                            <tr>
+                                <td>FASE 1</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>FASE 2</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>Total</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h4>5.1.5 Tiempo Promedio de Solución de SFC</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-2"></div>
+            <div class="col-12 col-md-10">
+                <div class="table-responsive">
+                    <table class="tableSize">
+                        <thead class="align-middle">
+                            <tr>
+                                <th>DESCRIPCION</th>
+                                <th>TIEMPO PROMEDIO DE SOLUCION</th>
+                            </tr>
+                        </thead>
+                        <tbody id="promedioTable">
+                            <tr>
+                                <td>Cambio de Cables SFC</td>
+                                <td>00:00:00</td>
+                            </tr>
+                            <tr>
+                                <td>Reparación de Cables SFC</td>
+                                <td>00:00:00</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h4>5.1.6 Detalle de SFC en Metrajes</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-2"></div>
+            <div class="col-12 col-md-10">
+                <div class="table-responsive">
+                    <table class="tableSize">
+                        <thead class="align-middle">
+                            <tr>
+                                <th>ITEM</th>
+                                <th>DETALLE SFC</th>
+                                <th>CANTIDAD</th>
+                            </tr>
+                        </thead>
+                        <tbody id="sfcMetrajeTable">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h4>5.1.3 Cumplimiento de Eventos de acuerdo a SLA</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="table-responsive">
+                    <table>
+                        <thead class="align-middle">
+                            <tr>
+                                <th>Ítem</th>
+                                <th>Caso Personal</th>
+                                <th>Ticket Hansa</th>
+                                <th>Fecha y Hora de Asignación </th>
+                                <th>Fecha y Hora de Resolución</th>
+                                <th>Tiempo de Resolución</th>
+                                <th>SLA</th>
+                                <th class="minimo">Descripción de la Falla y Solución</th>
+                                <th>Causa</th>
+                                <th>Tipo de Falla</th>
+                                <th>Cuadrilla</th>
+                                <th>Ciudad</th>
+                                <th>Coordenadas</th>
+                            </tr>
+                        </thead>
+                        <tbody id="ticketTable">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h4>6 Información Histórica</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-2"></div>
+            <div class="col-12 col-md-8">
+                <div class="barStyle">
+                    <canvas id="barGrafUI"> 
+                    </canvas>
+                </div>
+            </div>
+            <div class="col-12 col-md-2"></div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h4>7. Histórico de atención de casos de soporte técnico</h4>
+                <p>Se adjudica a Hansa Paraguay SRL el Servicio de Soporte de Red de FO Fija Para Núcleo SA. En las zonas de CDE, ENC, COV/VIR/CAG por el periodo de 3 años, desde el 1-01-2020 al 31-10-2023.
+                </p>
+                <p>Durante los días 1 hasta el 16 de Junio del 2021 se atendieron satisfactoriamente 42 eventos en la región asignada.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h4>8. Recomendaciones/Acciones</h4>
+                <ul>
+                    <li>
+                        <p>Efectuar una inspección visual por los tramos donde circula tráfico pesado, verificando el estado de la FO en esos tramos.</p>
+                    </li>
+                    <li>
+                        <p>Relevamiento de la postación por sectores verificando el estado actual de los postes en los tramos más críticos.</p>
+                    </li>
+                    <li>
+                        <p>Tomar en cuenta los cambios de postes por parte de la empresa eléctrica, ya que si estamos apoyado en sus postes. En muchos cambios que se realizan se deja la FO de lado.</p>
+                    </li>
+                    <li>
+                        <p>Tener a disposición cables SFC (Prefabricados) para atender los soportes con mayor agilidad</p>
+                    </li>
+                    <li>
+                        <p>Envió de informe de eventos diario – Objetivo: Monitoreo constante y en línea de actividades.</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 d-flex align-items-center  footerStyle justify-content-center">
+                    <p class="footerText"> </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="asuncion.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.3.2/chart.min.js "></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js "></script>
+    <script>
+        new Chart(document.getElementById("pie-chart"), {
+            type: 'pie',
+            data: {
+                labels: ["Cambio de Columna", "Empalme Atenuado", "Falla por Deterioro", "Vehículo de Gran Porte", "Pelo Roto/Conector Roto", "Suciedad/Mala Conexión", "Posible Sabotaje", "Quemazón", "Corte de FO 144 Hilos", "Corte de FO 48 Hilos", "Corte de FO 24 Hilos", "Corte de SFC", "Falta de Herrajeria/Adecuación", "Sin Inconvenientes"],
+                datasets: [{
+                    label: "Population (millions)",
+                    backgroundColor: ["#006400", "#0000FF", "#000000", "#A9A9A9", "#D2691E", "#6495ED", "#DC143C", "#8B008B", "#FFFF00", "#00008B", "#B22222", "#32CD32", "#FFA500", "#F5F5F5"],
+                    hoverOffset: 4,
+                    data: [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+                }]
+            },
+            options: {
+                title: {
+                    display: true,
+                    text: '',
+                },
+                plugins: {
+                    legend: {
+                        display: true,
+                        position: 'right',
+                        labels: {
+                            color: 'rgb(0, 0, 0)'
+                        }
+                    }
+                }
+            }
+        });
+
+        const grafBarrasUI = function() {
+            // const labels = Utils.months({ count: 7 });
+            const data = {
+                // console.log(fechaDetailTicket.map(casos => casos.dia));
+                // labels: ["x", "zxx", "de", "de", "de", "de", "de"],
+                labels: ["01/05/2021", "02/05/2021", "03/05/2021", "04/05/2021", "05/05/2021"],
+                datasets: [{
+                    label: 'Detalle de Tickets Asunción',
+                    data: [1, 1, 2, 0, 5],
+                    backgroundColor: 'rgba(54, 162, 235, 0.5)',
+                    borderColor: 'rgb(54, 162, 235)',
+                    borderWidth: 1
+                }]
+            };
+            const options = {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+
+            const config = {
+                type: 'bar',
+                data: data,
+                options: options
+            };
+
+            const myChart = new Chart(
+                document.getElementById('barGrafUI'),
+                config
+            );
+        }
+        grafBarrasUI();
+    </script>
+
+</body>
+
+</html>
